@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An introduction to the sacrament, or, A short, plain, and safe way to the communion table being an instruction for the worthy receiving of the Lords Supper / collected for and familiarly addressed to every particular communicant.</title>
+            <author>Addison, Lancelot, 1632-1703.</author>
+         </titleStmt>
+         <extent>Approx. 108KB of XML-encoded text transcribed from 68 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69505</idno><idno type="EEBO-CITATION">10390265</idno>
+  <idno type="VID">44937</idno>
+  <idno type="EEBO-PROQUEST">2248494403</idno>
+  
+            <idno type="STC">Wing A521</idno>
+            <idno type="STC">ESTC R22265</idno>
+            <idno type="OCLC">10390265</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A69505)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44937)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 339:21 or 1372:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An introduction to the sacrament, or, A short, plain, and safe way to the communion table being an instruction for the worthy receiving of the Lords Supper / collected for and familiarly addressed to every particular communicant.</title>
+                  <author>Addison, Lancelot, 1632-1703.</author>
+               </titleStmt>
+               <extent>[5], 128 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Crooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Added illustrated t.p.</note>
+                  <note>Attributed by Wing to Lancelot Addison.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+                  <note>Item at 339:21 incorrectly called A522 in Wing reel guide.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Lord's Supper.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>David Tomkins </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>David Tomkins</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:44937:1"/>
+            <p>
+               <figure>
+                  <head>The Introduction to the Sacrament.</head>
+                  <figDesc>Woodcut with two panels, the first illustrating a preacher in a pulpit, and the second the congregation kneeling to receive communion.</figDesc>
+                  <p>London Printed for W: Crook at y<seg rend="sup">e</seg> Green Dragon without Temple Barre.</p>
+                  <byline>F. H. Van. Houe. Sculp:</byline>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:44937:1"/>
+            <p> AN INTRODUCTION To the SACRAMENT: OR, A short, plain, and safe way TO THE Communion-Table.</p>
+            <p>BEING An Instruction for the worthy receiving of the Lords Supper.</p>
+            <p>Collected for, and familiarly addressed to every particular Communicant.</p>
+            <p>Ad Majorem Dei Gloriam.</p>
+            <p>LONDON: Printed for William Crooke, at the Green Dra<g ref="char:EOLhyphen"/>gon without Temple-bar. 1682.</p>
+            <pb facs="tcp:44937:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:44937:2"/>
+            <head>TO The Right Worshipful <hi>ROB. HYDE</hi>
+               <abbr>Esq;</abbr> My truly <hi>Worthy,</hi> And much <hi>Honoured Patron.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe following <hi>Papers</hi> were at first onely designed for the Help and Service of my own Parishioners, (your Tenants;) and being resol<g ref="char:EOLhyphen"/>ved to expose them to publick Cen<g ref="char:EOLhyphen"/>sure, I needed not deliberate to whom they were due; nor did any Thought interpose, but this one, That they were not worth your eye or owning. However, I conceived they might serve as a <hi>Witness</hi> of my deep apprehension of your Gene<g ref="char:EOLhyphen"/>rous and Friendly Patronage.</p>
+            <pb facs="tcp:44937:3"/>
+            <p> And therefore with all hearti<g ref="char:EOLhyphen"/>ness and height of Gratitude, I put these <hi>Papers</hi> into your hands, ho<g ref="char:EOLhyphen"/>ping that when you read them over, you may meet with something be<g ref="char:EOLhyphen"/>sides my Frailties, even those Truths which will make you for <hi>ever happy.</hi>
+            </p>
+            <p>And now, Sir, being no great Friend to the common Vanity of <hi>Letters Dedicatory,</hi> pardon me, that for making <hi>Court</hi> to <hi>you,</hi> I humbly apply my self to your <hi>gra<g ref="char:EOLhyphen"/>cious Maker,</hi> That you may enjoy <hi>Health</hi> and <hi>Prosperity,</hi> and be <hi>long, long</hi> happy in the inviolable Affection of that <hi>Honourable La<g ref="char:EOLhyphen"/>dy</hi> your truly <hi>Noble</hi> and <hi>Pious</hi> Consort: and that the God of Blessings may dayly bless you both.</p>
+            <closer>
+               <signed>Your most obliged and most humble Servant.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:44937:3"/>
+            <head>AN Introduction TO THE SACRAMENT.</head>
+            <div n="1" type="section">
+               <head>I.</head>
+               <p>
+                  <seg rend="decorInit">B</seg>Eing in your be<g ref="char:EOLhyphen"/>half to enquire into the Duties you are to dis<g ref="char:EOLhyphen"/>charge, when you come to the Holy Sacrament; before I de<g ref="char:EOLhyphen"/>scend to a distinct handling thereof, give me leave first to mind you of the end of your coming thither: which I take to be none other, than chiefly
+<pb n="2" facs="tcp:44937:4"/> to renew the <hi>Covenant</hi> you made with God in Baptism; who is pleased in great mercy to admit you to the Lords Ta<g ref="char:EOLhyphen"/>ble, in order to repair your Vow of Baptism, after that by numerous ways you have bro<g ref="char:EOLhyphen"/>ken it. And when it shall be your care worthily to <hi>Commu<g ref="char:EOLhyphen"/>nicate,</hi> God will vouchsafe gra<g ref="char:EOLhyphen"/>ciously to accept you, and in the Lords Supper to restore you to all the <hi>forfeited</hi> benefits of your Baptism.</p>
+            </div>
+            <div n="2" type="section">
+               <head>II.</head>
+               <p>Seeing then that the <hi>renewing of your Covenant</hi> is the great business of your coming to the <hi>Blessed Communion,</hi> it is highly reasonable, that you have a full and clear understanding of the nature of that <hi>Covenant</hi> which you are to <hi>renew.</hi> And in or<g ref="char:EOLhyphen"/>der hereunto, you are to know
+<pb n="3" facs="tcp:44937:4"/> in general, that the <hi>Covenant</hi> to be <hi>renewed</hi> by you, is <hi>that</hi> into which you enter'd at Baptism: where the <hi>Covenant</hi> God at first made with Mankind (which is the foundation of all Christia<g ref="char:EOLhyphen"/>nity) is applied to every par<g ref="char:EOLhyphen"/>ticular person, who at Baptism solemnly give up their Names unto Christ, and enter upon the profession of his most Holy Religion. And to the end you may more clearly comprehend this important Truth, it is con<g ref="char:EOLhyphen"/>venient that you a little reflect upon that <hi>double Covenant</hi> God made with <hi>Adam,</hi> as he was not onely the <hi>Patriarch,</hi> but <hi>Representative</hi> of all Mankind.</p>
+            </div>
+            <div n="3" type="section">
+               <head>III.</head>
+               <p>Where you finde that the first Covenant was made with <hi>Adam</hi> immediately upon his Creation, when he was in his
+<pb n="4" facs="tcp:44937:5"/>
+                  <hi>flourishing Integrity,</hi> and indued not barely with a perfect <hi>know<g ref="char:EOLhyphen"/>ledge</hi> of his Duty, but with a sufficient <hi>power</hi> of performing it. When <hi>Adam</hi> (I say) was in a most excellent <hi>State</hi> and <hi>Con<g ref="char:EOLhyphen"/>dition,</hi> God made an Agreement with him to this purpose; <hi>viz.</hi> That if he took care to conti<g ref="char:EOLhyphen"/>nue in Obedience to his Maker, then his <hi>Knowledge</hi> and <hi>Strength</hi> should remain; and after a long and pleasant life upon Earth, at last he should either put off his Body, or have it together with his Soul, taken up into Heaven; and there in both be happy and glorious to all Eternity: But if he disobeyed, and so broke this Covenant, he was to lose the perfect <hi>knowledge</hi> of his Duty, and his <hi>strength</hi> of per<g ref="char:EOLhyphen"/>fectly discharging it; and was also to be subject to temporal death, which is a separation of the Soul from the <hi>Body</hi> for a
+<pb n="5" facs="tcp:44937:5"/> time; and to death eternal, which is a banishment from God's gracious presence for e<g ref="char:EOLhyphen"/>ver. And as upon his breach of Covenant <hi>Adam</hi> was liable to the first sort of Death, and in the appointed time suffer'd it; so had he likewise under<g ref="char:EOLhyphen"/>gone the second kind of Death, if God in his unspeakable mer<g ref="char:EOLhyphen"/>cy had not come to new Agree<g ref="char:EOLhyphen"/>ment with him. Now all that you need to know concerning the first Covenant, is, (1.) That the Condition thereof was won<g ref="char:EOLhyphen"/>derful easie for <hi>Adam</hi> to have observed, seeing no more was required of him than an <hi>absti<g ref="char:EOLhyphen"/>nence</hi> from one <hi>Tree</hi> onely in the <hi>Garden</hi> where God had placed him; which Restraint could not be grievous, seeing he was allowed a freedom of all the rest. (2.) That <hi>A<g ref="char:EOLhyphen"/>dam,</hi> at his Wife's instigation, eat of the forbidden Tree, and
+<pb n="6" facs="tcp:44937:6"/> by eating thereof, broke the first Covenant; the effects whereof were no milder than the loss both of the Knowledge, and Ability of doing what God required of him. For immedi<g ref="char:EOLhyphen"/>ately upon his transgressing God's Commandment, the light that was in <hi>Adam</hi> became dim, and his Strength (like <hi>Samp<g ref="char:EOLhyphen"/>sons</hi> upon the cutting off of his Locks) was extreamly weak<g ref="char:EOLhyphen"/>ned: so that he became so feeble and defective, and mi<g ref="char:EOLhyphen"/>serably cripled both in his <hi>Ʋn<g ref="char:EOLhyphen"/>derstanding</hi> and <hi>Will,</hi> that he could neither clearly discern, nor exactly execute his Duty. (3.) You are to know, that all men being in the loins of <hi>Adam,</hi> were infected with his sin; and like him, became de<g ref="char:EOLhyphen"/>stitute of a right understand<g ref="char:EOLhyphen"/>ing of their <hi>Duty,</hi> and <hi>Ability</hi> to discharge it; backward to Good, and prone to Evil: <hi>Hu<g ref="char:EOLhyphen"/>mane</hi>
+                  <pb n="7" facs="tcp:44937:6"/>
+                  <hi>Nature upon</hi> Adam<hi>'s</hi> Fall <hi>becoming like a sick Stomach, which doth not onely loath what is wholsome, but lust after that which is quite otherwise.</hi>
+               </p>
+            </div>
+            <div n="4" type="section">
+               <head>IV.</head>
+               <p>But when <hi>Adam</hi> by Disobedi<g ref="char:EOLhyphen"/>ence had forfeited the benefits of the <hi>first,</hi> God was pleased to make with him a <hi>second Cove<g ref="char:EOLhyphen"/>nant;</hi> and therein to accept of <hi>another,</hi> to pay the <hi>Debts</hi> and perform the <hi>Duties</hi> in his stead, for which he had made himself altogether unable and insolvent. And this is that Covenant which onely now concerns you, and which at the Communion you are to <hi>renew,</hi> and whereof you ought to have a full and clear understanding: for it would sound very oddly for a man to pretend a most solemn <hi>renewing of he knows not what!</hi>
+               </p>
+            </div>
+            <div n="5" type="section">
+               <pb n="8" facs="tcp:44937:7"/>
+               <head>V.</head>
+               <p>Now in tracing out the na<g ref="char:EOLhyphen"/>ture of this Covenant, you will finde it was made with all Man<g ref="char:EOLhyphen"/>kind in <hi>Adam</hi> immediately up<g ref="char:EOLhyphen"/>on his <hi>Fall:</hi> I say, <hi>immediately upon his Fall;</hi> for considering the great love God ever bore Man, you may imagine he would not suffer our <hi>Great Pa<g ref="char:EOLhyphen"/>rent</hi> to lie long under the <hi>tor<g ref="char:EOLhyphen"/>turing reflections</hi> and <hi>hellish pains,</hi> with which his Conscience was loaden by the consideration of his sin, and which have ever been found to be the most <hi>na<g ref="char:EOLhyphen"/>tural effects</hi> of doing vitiously; but that he presently relieved his afflicted mind, by entring into a gracious Compact with him, and shewing him how he and his Off-spring were to be saved from that destruction he had brought upon both. And
+<pb n="9" facs="tcp:44937:7"/> the first revelation of this Co<g ref="char:EOLhyphen"/>venant is met with in <hi>Gen.</hi> 3. 15. which with greater plain<g ref="char:EOLhyphen"/>ness is repeated, <hi>Gen.</hi> 22. 17, 18. compared with <hi>Gen.</hi> 12. 3. and <hi>Gen.</hi> 18. 18. The contents of which Texts, the Son of <hi>Sirach</hi> calls the Blessing of all Men and the Covenant, <hi>Ecclesiasti<g ref="char:EOLhyphen"/>cus</hi> 44. 22.</p>
+            </div>
+            <div n="6" type="section">
+               <head>VI.</head>
+               <p>And seeing, as has been said, <hi>that the great business of your co<g ref="char:EOLhyphen"/>ming to the Lords Table, is to re<g ref="char:EOLhyphen"/>new the Covenant of your Bap<g ref="char:EOLhyphen"/>tism,</hi> which you have broken; (which Covenant of Baptism is no other than the second Co<g ref="char:EOLhyphen"/>venant made with Mankind in general, applied to <hi>you</hi> in par<g ref="char:EOLhyphen"/>ticular) you are to under<g ref="char:EOLhyphen"/>stand, that a Covenant (as we now consider it) <hi>is a mutual Agreement betwixt God and</hi>
+                  <pb n="10" facs="tcp:44937:8"/>
+                  <hi>Man, consisting of Mercies on God's part made over to Man, and of Duties</hi> (or Conditions) <hi>on Man's part, required by God.</hi> So that it is necessary for you to know,</p>
+               <list>
+                  <item>1. What the Mercies are, which on God's part are made over to Man.</item>
+                  <item>2. What the Conditions are, which on Man's part are requi<g ref="char:EOLhyphen"/>red by God.</item>
+               </list>
+            </div>
+            <div n="7" type="section">
+               <head>VII.</head>
+               <p>And <hi>first,</hi> as to the Mercies which on God's part are made over to Man in the <hi>second</hi> Co<g ref="char:EOLhyphen"/>venant, the sum thereof is the <hi>Seed of the Woman,</hi> or the <hi>send<g ref="char:EOLhyphen"/>ing Christ to take upon him the nature of Man, and to be as a second</hi> Adam <hi>to supply what was wanting in the first, and to per<g ref="char:EOLhyphen"/>form that sinless Obedience which</hi>
+                  <pb n="11" facs="tcp:44937:8"/>
+                  <hi>was the Condition of the first Co<g ref="char:EOLhyphen"/>venant;</hi> he being both in <hi>Birth</hi> and Conversation absolutely in<g ref="char:EOLhyphen"/>nocent. And though the thus sending of Christ (the second Person of the ineffable Trinity) be the abridgement of all the Mercies of the second Cove<g ref="char:EOLhyphen"/>nant; yet under this <hi>Title</hi> ma<g ref="char:EOLhyphen"/>ny Benefits are contain'd. For you are not to imagine that the Son of God came onely to gaze upon the Miseries, and to condole the Wretchedness of that Nature he had taken, or to pass by <hi>us</hi> as the Priest and Levite did the <hi>wounded Tra<g ref="char:EOLhyphen"/>veller;</hi> but with the good <hi>Se<g ref="char:EOLhyphen"/>maritan,</hi> he bound up our Sores, and provided us of all those means of recovery whereof we were utterly destitute, and put us in a right way of being and continuing healthy. And this he did,</p>
+            </div>
+            <div n="8" type="section">
+               <pb n="12" facs="tcp:44937:9"/>
+               <head>VIII.</head>
+               <p>
+                  <hi>First,</hi> By making known un<g ref="char:EOLhyphen"/>to <hi>you,</hi> and as many as believe on him, the whole Will of God; assuring all such as fail not to do it, that they shall meet with a most gracious <hi>acceptance,</hi> and bountiful <hi>reward.</hi> During the time of Christ's troublesome Pil<g ref="char:EOLhyphen"/>grimage upon Earth, you know it was one chief part of his Em<g ref="char:EOLhyphen"/>ployment to give such <hi>Com<g ref="char:EOLhyphen"/>mands</hi> and <hi>Counsels,</hi> as by their own inward goodness were suf<g ref="char:EOLhyphen"/>ficient to approve themselves to mans rational nature. His Doctrine wore no Veil, nor was it wrapt up in Types and Sha<g ref="char:EOLhyphen"/>dows; but both in its <hi>Perspicu<g ref="char:EOLhyphen"/>ity</hi> and <hi>Justice,</hi> Christ shew'd himself to be the <hi>Son of Righ<g ref="char:EOLhyphen"/>teousness,</hi> Mal. 4. 2. He would not suffer his Gospel, like <hi>Moses</hi> Law, to consist in Carnal, but
+<pb n="13" facs="tcp:44937:9"/> Spiritual Observances; not in cleansing the Pollutions of the Body, but in purifying the Af<g ref="char:EOLhyphen"/>fections of the Soul. And by giving a Law proper to this end, he proved himself to be a true <hi>Prophet,</hi> whose work is not onely to foretel what shall be hereafter (though in this stri<g ref="char:EOLhyphen"/>ctest sense of the word, Christ was so far forth a Prophet as was needful for his Church) but to instruct what men are to do; to expound, signifie, and make known the mind and good pleasure of God. And this he did in his Sermons, especially in that on the Mount; where<g ref="char:EOLhyphen"/>in he hath shewn upon what terms eternal Blessedness is to be had under the Gospel. He also revealed some Commands of God, which were not before so expresly revealed; and ex<g ref="char:EOLhyphen"/>pounding such as were so ob<g ref="char:EOLhyphen"/>scurely revealed in the old
+<pb n="14" facs="tcp:44937:10"/> Testament, that men thought not themselves fully obliged to obey them.</p>
+            </div>
+            <div n="9" type="section">
+               <head>IX.</head>
+               <p>And as a Prophet too, or so<g ref="char:EOLhyphen"/>veraign Institutor of the Church, Christ appointed Ceremonies and <hi>Discipline,</hi> or Sacraments and Ecclesiastical Censures: All which he delivered either in Parables, or <hi>plain Propositions.</hi> To which you are to give a wil<g ref="char:EOLhyphen"/>ling and full Assent, a chearful and ready Obedience; not de<g ref="char:EOLhyphen"/>spising or neglecting the use of whatever he hath thought fit to prescribe. And if you can<g ref="char:EOLhyphen"/>not at first sight so clearly comprehend some Mysteries of the Gospel, your Reason (which in it self is proud and carnal) must be subject to Faith, which can easily wade through those depths, which to Reason are
+<pb n="15" facs="tcp:44937:10"/> unpassable. Above all, give diligent attention to Christ as your great Prophet, being rea<g ref="char:EOLhyphen"/>dy and desirous to be duly in<g ref="char:EOLhyphen"/>form'd of that <hi>Will of God</hi> which he came to reveal.</p>
+            </div>
+            <div n="10" type="section">
+               <head>X.</head>
+               <p>And as the first Mercy of the second Covenant was to have Christ to be a Prophet in the sence now mentioned, so ano<g ref="char:EOLhyphen"/>ther benefit thereof was to have him to be your Priest. You meet in Scripture with two Orders of Priesthood, <hi>viz.</hi> one of <hi>Aaron,</hi> and another of <hi>Melchizedeck.</hi> The Office of the <hi>Aaronical</hi> Priesthood consi<g ref="char:EOLhyphen"/>sted chiefly in Sacrificing, not Excluding <hi>Blessing</hi> of the Peo<g ref="char:EOLhyphen"/>ple. But the Office of the <hi>Mel<g ref="char:EOLhyphen"/>chizedechian</hi>
+                  <note place="margin">Gen. 14. 18.</note> Priesthood, was principally to <hi>bless;</hi> not denying but that it had also a liberty
+<pb n="16" facs="tcp:44937:11"/> to sacrifice. Christ was a Priest according to both these <hi>Orders.</hi>
+               </p>
+            </div>
+            <div n="11" type="section">
+               <head>XI.</head>
+               <p>And <hi>first,</hi> he was a Priest ac<g ref="char:EOLhyphen"/>cording to the Order of <hi>Aaron;</hi> by virtue whereof, he offer'd up himself upon the <hi>Cross;</hi> and by that Sacrifice of himself once offer'd, he compleated the whole <hi>Work</hi> of <hi>Satisfaction</hi> for Sin, and put an end to all the old <hi>legal Sacrifices;</hi> (which had indeed an Eye to this Satisfaction, but were not able to accomplish it.) To satisfie God for our sins, not onely that one of <hi>Adam,</hi> but all the sins of all <hi>Mankind</hi> that truly repent and amend; and by this means to obtain for man <hi>Forgiveness</hi> of sins, the <hi>Favour of God,</hi> and <hi>Redemption from Hell and eternal Damna<g ref="char:EOLhyphen"/>tion;</hi> which was the punishment
+<pb n="17" facs="tcp:44937:11"/> due to sin. And all this he did by his <hi>death.</hi> So that if you truly and heartily repent of, and forsake your sins, you shall re<g ref="char:EOLhyphen"/>ceive the benefits of that Sacri<g ref="char:EOLhyphen"/>fice of Christ, which he offer'd as a Priest; and your sins, though never so many and hai<g ref="char:EOLhyphen"/>nous, shall be forgiven you, and you shall be saved from those everlasting Punishments which are due for them.</p>
+            </div>
+            <div n="12" type="section">
+               <head>XII.</head>
+               <p>
+                  <hi>Secondly,</hi> Christ is a Priest according to the Order of <hi>Melchizedeck:</hi> and though he did not enter upon this till af<g ref="char:EOLhyphen"/>ter he was <hi>risen</hi> from the dead, yet it shall not end until the <hi>Consummation</hi> of all things. His <hi>Aaronical</hi> Priesthood expired with himself upon the <hi>Cross;</hi> but he remains a Priest <hi>for ever</hi> after the Order of <hi>Melchizedeck.</hi>
+                  <pb n="18" facs="tcp:44937:12"/> And as the Office of this Priest<g ref="char:EOLhyphen"/>hood consisted in <hi>Blessing</hi> and praying for the People, (as you may collect from <hi>Gen.</hi> 14. 18.) it belongs also unto Christ, God having sent him to bless you, as St. <hi>Peter</hi> speaks, <hi>Acts</hi> 3. 26. And the following words declare, that this Blessing con<g ref="char:EOLhyphen"/>sists in turning every one from his iniquity. And those ex<g ref="char:EOLhyphen"/>cellent means used by Christ for this end (which ought to be reckon'd for the greatest Bles<g ref="char:EOLhyphen"/>sings) are (1.) A Succession of Priests, (an Holy Order of men) whom he continually employs by their Ministry to work in mens hearts a sincere Obedience to the Gospel. (2.) A giving to all humble Christians strength to enable them to overcome sin. (3.) His interceding with God for his Servants, that they may con<g ref="char:EOLhyphen"/>tinue in well doing. And as he
+<pb n="19" facs="tcp:44937:12"/> did this last while he was up<g ref="char:EOLhyphen"/>on Earth, praying that his Dis<g ref="char:EOLhyphen"/>ciples Faith might not fail: so he still pursues the same Of<g ref="char:EOLhyphen"/>fice of praying for the <hi>Church,</hi> now that he is ascended up into Heaven; where, sitting at the right hand of God, he makes request for us, <hi>Rom.</hi> 8. 34. And it is your duty, as a Christian, to comply with Christ herein, and to be willing to be thus blessed by him, in being turned from your sins; and not to re<g ref="char:EOLhyphen"/>sist his Prayers and Intercessi<g ref="char:EOLhyphen"/>ons, not to render all his Bles<g ref="char:EOLhyphen"/>sings, the means of Repentance, void and fruitless, by your wil<g ref="char:EOLhyphen"/>ful continuance in iniquity. But when you shall use these Blessings to the end they are designed by your Saviour, and shall cease to do evil, and learn to do good, not expecting <hi>For<g ref="char:EOLhyphen"/>giveness,</hi> or Salvation, upon o<g ref="char:EOLhyphen"/>ther terms than Christ has
+<pb n="20" facs="tcp:44937:13"/> propounded them; when you shall be careful to run diligently the Race Jesus has set before you: then may you expect to receive the <hi>Prize,</hi> even a Crown that fades not, which God the righteous Judge shall set upon your Temples; not for your own, but the Merits of your High-Priest: who according to <hi>the Order of</hi> Aaron <hi>offer'd him<g ref="char:EOLhyphen"/>self</hi> a Sacrifice; and according to the Order of <hi>Melchizedeck, blesses</hi> and <hi>prays</hi> for you.</p>
+            </div>
+            <div n="13" type="section">
+               <head>XIII.</head>
+               <p>And as the second Mercy of the second Covenant is, thus to have Christ for your Priest; so the <hi>third</hi> is, to have him for your King. And he exerciseth this <hi>Supream Office</hi> by reigning in your heart by his Holy Spirit, (if you do not resist and quench it) which gives you
+<pb n="21" facs="tcp:44937:13"/> strength to overcome Tempta<g ref="char:EOLhyphen"/>tions to sin; and enables you to do what God requires of you. And that you might have no pretence to refuse the Kingly Government of Christ, as too heavy and difficult, he has made his Yoke easie, and Burden light; having taken off from the hardness of the Law first given to <hi>Adam,</hi> and instead of that sinless Obedience, or the never committing the least sin upon pain of <hi>death</hi> (which was required of him) he now looks for no more than your <hi>honest</hi> and <hi>hearty</hi> Endeavour to do what you are able, and accepts of <hi>sincere</hi> Repentance where you fail or miscarry. And it being the gracious nature of Christs Kingly Office thus to govern and rule you, and to subdue your Enemies, it would be something worse, if possible, than <hi>disingenuity</hi> and <hi>ingratitude,</hi>
+                  <pb n="22" facs="tcp:44937:14"/> to disobey, and hold out any disloyal passion or rebel-lust a<g ref="char:EOLhyphen"/>gainst him; not to vow and pay unto him perfect Loyalty and entire Allegiance; not to entrust him with your Prote<g ref="char:EOLhyphen"/>ction; not to have Peace or War with any but his Friends and Enemies; not to pay him your Homage and Reverence; not to give him a tribute of your Substance, by relieving his necessitous Members, <hi>&amp;c.</hi> Now to keep you from flatter<g ref="char:EOLhyphen"/>ing in these particulars, and to oblige you to a cheerful dis<g ref="char:EOLhyphen"/>charge thereof, Christ, as your King, hath promised, and will not fail, to prefer you in his Celestial Court to an eternal weight of Glory, and to make you co-heir with himself of that Kingdom of Heaven, which he went to take possession of at his Ascention, and which he will give to all who by their
+<pb n="23" facs="tcp:44937:14"/> impenitent continuance in ini<g ref="char:EOLhyphen"/>quity make not themselves unfit to receive it. Your duty herein is, to be exceeding careful not to forfeit your share in that Kingdom which Christ has pur<g ref="char:EOLhyphen"/>chased for all that faithfully o<g ref="char:EOLhyphen"/>bey him; which certainly you do, if you continue impenitent in any sin.</p>
+            </div>
+            <div n="14" type="section">
+               <head>XIV.</head>
+               <p>And when you have thus plainly consider'd the Mercies which in the second Covenant are on Gods part made over to Man, you are next to consider what those Conditions are which on Mans part are requi<g ref="char:EOLhyphen"/>red by God; and which you are to observe, if ever you hope to be partaker of the Benefits of the second Covenant. And these you will find to be not (1.) a perfect, absolute, exact
+<pb n="24" facs="tcp:44937:15"/> Obedience, so as never to of<g ref="char:EOLhyphen"/>fend in any kind; this was the Condition of the first Covenant. Nor, (2.) never to have for<g ref="char:EOLhyphen"/>merly committed any delibe<g ref="char:EOLhyphen"/>rate sin. Nor (3.) never to have gone on in any habitual or customary sin for the time past; though this be most hainous and provoking, and may justly throw you into the fearful apprehension of the Di<g ref="char:EOLhyphen"/>vine displeasure: But it is the New Creature, or a renewed, sincere, honest, faithful Obe<g ref="char:EOLhyphen"/>dience to the whole Gospel; giving up the whole heart unto Christ; the ready performing of that which God enables you to perform, and bewailing your frailties; and cordially sorrowing for the iniquity both of your past and present life, and besee<g ref="char:EOLhyphen"/>ching Gods pardon in Christ for all that you have done amiss; sincerely labouring to mortifie
+<pb n="25" facs="tcp:44937:15"/> every sin, and perform Uniform Obedience unto God; and from every Fall, rising again by Re<g ref="char:EOLhyphen"/>pentance and Reformation. In short, the Condition required to make you capable of the Be<g ref="char:EOLhyphen"/>nefits of the second Covenant, is first by Faith to accept of Christ as your Priest to <hi>Save,</hi> your Prophet to <hi>Teach,</hi> and your King to <hi>Rule</hi> you: Next, to have all those Graces, Faith, Hope, Charity, Self-denial, Re<g ref="char:EOLhyphen"/>pentance, <hi>&amp;c.</hi> (mentioned in the Gospel) united, and truly and sincerely rooted in your heart; though mixed with much weakness and imperfecti<g ref="char:EOLhyphen"/>on, and perhaps with many sins: which if not wilfully and impenitently lived and died in, cannot debar you of the Bene<g ref="char:EOLhyphen"/>fits of the second Covenant. But if you neglect these things, your condition will be worse than if no second Covenant had
+<pb n="26" facs="tcp:44937:16"/> been made: for you shall then be to answer, not for the breach of the Law onely, but for the abuse of <hi>Mercy;</hi> which is of all sins the most provoking.</p>
+            </div>
+            <div n="15" type="section">
+               <head>XV.</head>
+               <p>Now if your guilty mind tells you, that you have broken these Conditions, and therefore forfeited the Mercies of the se<g ref="char:EOLhyphen"/>cond Covenant; then know, that it cannot be renewed but by a worthy receiving of the Sacra<g ref="char:EOLhyphen"/>ment; and worthily you can<g ref="char:EOLhyphen"/>not receive it, till you repent of your sins: and all those things are to be accounted sins and transgressions of the Covenant, which are disagreeable to your Vow of Baptism, in which the general parts of your Duty are contained; and it is a compe<g ref="char:EOLhyphen"/>tent <hi>Rule,</hi> by which all your a<g ref="char:EOLhyphen"/>ctions ought to be measur'd.
+<pb n="27" facs="tcp:44937:16"/> Knowing then what in Baptism you have vowed to do, by ap<g ref="char:EOLhyphen"/>plying your actions unto that Vow, you may easily conclude wherein you have done amiss. Onely take heed you deal not partially with your Soul, by looking upon your sins in gross; but do your utmost endeavour to discover the particulars: Recal, as far as you can, all the passages of your life: Consider all the instances wherein your Vow has been transgressed; as, wherein you have yielded to the Temptations of Satan and the World, to gratifie the sinful lusts of the flesh: How you have failed of that holy Conversation to which you solemnly bound your self when you promised to believe all the Articles of the Christian Faith; every one of which Articles is a Pledge of <hi>good living:</hi> And how you have wandred from those Com<g ref="char:EOLhyphen"/>mandments
+<pb n="28" facs="tcp:44937:17"/> in which you vow'd to walk all the days of your life.</p>
+            </div>
+            <div n="16" type="section">
+               <head>XVI.</head>
+               <p>And you will find this parti<g ref="char:EOLhyphen"/>cular search of your sins, both proper and necessary in order to their Forgiveness; which cannot be expected without confessing and forsaking them. But how either of those can be done, without a distinct know<g ref="char:EOLhyphen"/>ledge of your sins; or how you can distinctly know them, with<g ref="char:EOLhyphen"/>out this particular search, I am not yet so far under the power of Fancie, as to imagine. And albeit that by no possible dili<g ref="char:EOLhyphen"/>gence you can discover or call to mind every sin committed since Baptism; and albeit too, there is no particular confes<g ref="char:EOLhyphen"/>sion requir'd of the sins where<g ref="char:EOLhyphen"/>of you are insuperably ignorant;
+<pb n="29" facs="tcp:44937:17"/> yet ignorance of your sins will be no Plea, when it is supine, and occasioned through ne<g ref="char:EOLhyphen"/>glect, and proceeds from a want of timely considering what you have done.</p>
+            </div>
+            <div n="17" type="section">
+               <head>XVII.</head>
+               <p>In drawing up a List of your sins, take heed of setting down such onely as hang scandalously in the Eye of the World, and are so notorious, as that the Sun bears witness of their commis<g ref="char:EOLhyphen"/>sion: But you are to search your Soul to the bottom, to rifle every corner of your heart; as knowing you have to deal with God, whose Law in nothing more declares its pe<g ref="char:EOLhyphen"/>culiar excellency, than in reach<g ref="char:EOLhyphen"/>ing mans <hi>thoughts</hi> and desires; and forbidding him no less to covet, than to steal his Neigh<g ref="char:EOLhyphen"/>bours goods; and no less to
+<pb n="30" facs="tcp:44937:18"/> lust after another mans Wife, than to commit Adultery with her. And this consideration is argument enough to incline you to an accurate search and enquiry, first, into all the seve<g ref="char:EOLhyphen"/>ral sorts of sins whereof you may justly suspect your self to be guilty; carefully looking in<g ref="char:EOLhyphen"/>to such, which by reason of their abstruser nature, are not so soon taken notice of, either by your self or others: and researching into the sorts and kinds of sins, you will find them all reducible to those of Thoughts, Speech, and Action.</p>
+            </div>
+            <div n="18" type="section">
+               <head>XVIII.</head>
+               <p>The first sort of these sins, those of Thoughts, you may learn from Gods own Observa<g ref="char:EOLhyphen"/>tion, <hi>Gen.</hi> 6. 5. when he saw that every Imagination of mans heart was onely evil continu<g ref="char:EOLhyphen"/>ally.
+<pb n="31" facs="tcp:44937:18"/> To which our Saviour had respect (St. <hi>Mat.</hi> 15. 19.) when he said, that <hi>out of the heart proceed evil thoughts.</hi> And though the <gap reason="foreign" resp="#oxf">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> there spoken of, may reach further than <hi>Rea<g ref="char:EOLhyphen"/>sonings</hi> and <hi>bare Thoughts,</hi> even to some subsequent Actions, be<g ref="char:EOLhyphen"/>cause they are said to come out of the heart, and <hi>Mark</hi> 7. 20. to come out of the man; yet this excludes not <hi>ordinary evil thoughts</hi> thereby to be signified. For these are doubtless the seeds and beginnings of all those wic<g ref="char:EOLhyphen"/>ked Contrivances, Designs, and Machinations which men act, and are guilty of in the world.</p>
+            </div>
+            <div n="19" type="section">
+               <head>XIX.</head>
+               <p>Thoughts indeed are of so vanishing and transient a na<g ref="char:EOLhyphen"/>ture, so easily escaping your ob<g ref="char:EOLhyphen"/>servation, and so apt to leave you ignorant how therein you
+<pb n="32" facs="tcp:44937:19"/> have offended, that you have great cause to be signally dili<g ref="char:EOLhyphen"/>gent in their search. Besides, men are apt to imagine, thoughts are not so evil, as indeed they are, because Custom hath taught them to say, Thoughts are free. Whence they vulgarly conclude they may think as they please, without offence. And had you onely to do with Creatures short-sighted like your self, there might be some ground for so saying: But being to deal with God, whose Law reaches your <hi>Thoughts,</hi> and forbids them to be wicked, you want no Rea<g ref="char:EOLhyphen"/>sons moving you to search how far therein you have offended; and to repent thereof e're you come to the Holy Table. E<g ref="char:EOLhyphen"/>vil thoughts are the more im<g ref="char:EOLhyphen"/>mediate defilers of the heart; they pollute the very spring of all your Words and Actions: and till the thoughts of your
+<pb n="33" facs="tcp:44937:19"/> heart be cleansed by the inspi<g ref="char:EOLhyphen"/>ration of the Holy Spirit, it will be no more fit to receive Christ in the Sacrament, than the Manger was to lodge him at his birth.</p>
+            </div>
+            <div n="20" type="section">
+               <head>XX.</head>
+               <p>The second sort of sins you are to search into, are those of your <hi>Words;</hi> which being spo<g ref="char:EOLhyphen"/>ken in earnest, are Testifications of what is in your heart, and no<g ref="char:EOLhyphen"/>thing else but your <hi>thoughts</hi> made audible. And though the inconsiderate make little ac<g ref="char:EOLhyphen"/>count of their words, deceiving themselves by fancying they are but <hi>wind;</hi> yet seeing there is a day coming, when all such as are <hi>idle,</hi> that is, wicked, shall be accounted for by God, in bestowing Rewards and Punish<g ref="char:EOLhyphen"/>ments upon men, you have all imaginable reason to examine how you have sin'd in <hi>your Tongue.</hi>
+               </p>
+            </div>
+            <div n="21" type="section">
+               <pb n="34" facs="tcp:44937:20"/>
+               <head>XXI.</head>
+               <p>Among the several ways whereby your Words become sinful, I shall reckon up a few, leaving the rest to your own ob<g ref="char:EOLhyphen"/>servation.</p>
+            </div>
+            <div n="22" type="section">
+               <head>XXII.</head>
+               <p>And first, your Words are wicked, when they are filthy. All filthiness is so abominable to God, as that he will not admit it in your very Tongue; having by his Apostle, commanded you to <hi>let no corrupt communion pro<g ref="char:EOLhyphen"/>ceed out of your mouth,</hi> Ephes. 4. 29. That you avoid all unclean discourse, as you would putrid and rotten Meats, which turn to contagion; and instead there<g ref="char:EOLhyphen"/>of, to use such Language as is wholsome, profitable, and in<g ref="char:EOLhyphen"/>structive both for your self and
+<pb n="35" facs="tcp:44937:20"/> them who hear you. Other<g ref="char:EOLhyphen"/>wise your Speech will be so noi<g ref="char:EOLhyphen"/>some, that it will drive from you the Holy Spirit of God, and leave you without the Soul and Mark of a Christian.</p>
+            </div>
+            <div n="23" type="section">
+               <head>XXIII.</head>
+               <p>Next, Words become sinful, when they are scoffing and re<g ref="char:EOLhyphen"/>proachful, tending to the vilify<g ref="char:EOLhyphen"/>ing and disparagement of others. To which the most Holy Jesus had respect, when under the abusive and scurrilous words of <hi>Fool</hi> and <hi>Racha,</hi> he forbad <hi>Divi<g ref="char:EOLhyphen"/>sion, Scoffing,</hi> with all such Lan<g ref="char:EOLhyphen"/>guage as might impair the <hi>Cre<g ref="char:EOLhyphen"/>dit;</hi> which wise men generally prize next to Life, and often a<g ref="char:EOLhyphen"/>bove it. And when Christ for<g ref="char:EOLhyphen"/>bad <hi>Reproach</hi> as well as <hi>Killing,</hi> and required of all professing his Religion, to be no less tender of the good <hi>Names,</hi> than <hi>Persons</hi> of
+<pb n="36" facs="tcp:44937:21"/> their Brethren, he display'd the excellencie of his Doctrine, shewing how far it surpass'd both the <hi>Law of Moses</hi> and the <hi>Hea<g ref="char:EOLhyphen"/>then Theologie.</hi> For though <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> in the Law to the <hi>Jews</hi> strict<g ref="char:EOLhyphen"/>ly commanded they should <hi>do no Murder,</hi> and that he who did so, was to be tri'd for his life by the Court of <hi>twenty three,</hi> or lesser <hi>Sanhedrim</hi> (to whom be<g ref="char:EOLhyphen"/>long'd the Cognizance of capi<g ref="char:EOLhyphen"/>tal and greater matters) yet by what Christ superadds to that precept in <hi>Mat.</hi> 5. 22. it may seem <hi>Moses</hi> had made no provision against vilifying and deriding Language. And as to the Heathen Theology, though in many instances it forbad Murder, yet it did not so to Ca<g ref="char:EOLhyphen"/>lumny: For when <hi>Minerva</hi> (one of their Deities) counsel<g ref="char:EOLhyphen"/>led <hi>Achilles</hi> not to draw the Sword against <hi>Agamemnon,</hi> she gave him leave to rail against
+<pb n="37" facs="tcp:44937:21"/> and revile him, <hi>(Hom. Iliad.</hi> 1.) But Christ will have your Tongue as free from contem<g ref="char:EOLhyphen"/>ptuous Language, as your Hands from Violence; and that you carry your self as harm<g ref="char:EOLhyphen"/>lessly towards the Reputation, as the life of your fellow-Chri<g ref="char:EOLhyphen"/>stian.</p>
+            </div>
+            <div n="24" type="section">
+               <head>XXIV.</head>
+               <p>Words are <hi>(thirdly)</hi> egre<g ref="char:EOLhyphen"/>giously wicked, when they are false: for <hi>Truth</hi> gives them all their substance and solidity, ma<g ref="char:EOLhyphen"/>king the Tongue answer the end for which it was given man, namely, to speak the <hi>truth in his heart;</hi> and not to have one thing upon the <hi>Lip,</hi> and ano<g ref="char:EOLhyphen"/>ther in the <hi>Mind:</hi> which deceit<g ref="char:EOLhyphen"/>ful carriage (though never so usual) was ever thought so a<g ref="char:EOLhyphen"/>bominable, that <hi>Agur</hi> earnestly pray'd God to remove it far
+<pb n="38" facs="tcp:44937:22"/> from him, <hi>Prov.</hi> 30. 8. And the Apostle declared against it, when he said, <hi>Lye not one to a<g ref="char:EOLhyphen"/>nother:</hi> Making it a principal part of that Heathen course re<g ref="char:EOLhyphen"/>nounced by the <hi>Colossians,</hi> to suggest or say any false thing to the injury of others, <hi>Col.</hi> 3. 9. or to use craftiness, or any of the evil Arts of deceiving. And the Divine <hi>Revel.</hi> 22. 15. excludes all who love and make a Lye, all hypocritical treacherous per<g ref="char:EOLhyphen"/>sons, from being any more than Equivocal Members of Christ's Church; which instead of ha<g ref="char:EOLhyphen"/>ving any part of the benefits of Christians, shall have their part in the Lake that burneth with fire and brimstone, <hi>Rev.</hi> 21. 8.</p>
+            </div>
+            <div n="25" type="section">
+               <head>XXV.</head>
+               <p>Words are <hi>(fourthly)</hi> emi<g ref="char:EOLhyphen"/>nently wicked, when they run out into Oaths and Execrations;
+<pb n="39" facs="tcp:44937:22"/> which were utterly prohibited by Christ, when he confin'd all Discourse among his Proselytes, to <hi>Yea, yea,</hi> and <hi>Nay, nay;</hi> to serious and earnest affirmations and denials; asserting, that what else is used in ordinary conversation, proceeds from an evil principle, or that <hi>evil One,</hi> the Devil; who hath variety of Snares wherewith to catch Souls, and intrap them in Ido<g ref="char:EOLhyphen"/>latry, Errour, and Unbelief: Such as is swearing by Heaven, Earth, <hi>&amp;c.</hi> as Christ instanceth, St. <hi>Mat.</hi> 4. 34. where all need<g ref="char:EOLhyphen"/>less promissory Oaths are whol<g ref="char:EOLhyphen"/>ly forbidden. When you there<g ref="char:EOLhyphen"/>fore hear vain men replenishing their Discourse with Oaths, 'twill be no breach of Charity for you to conclude, that this ill Custom proceeds either from a vain-glorious humour, deligh<g ref="char:EOLhyphen"/>ting in big and swelling Lan<g ref="char:EOLhyphen"/>guage, out of an idle conceit
+<pb n="40" facs="tcp:44937:23"/> that it is an argument of a great Spirit; or, that it comes of a want of Reverence to the <hi>holy</hi> Name of God; or, that men u<g ref="char:EOLhyphen"/>sing such Oaths, think others are like themselves; namely, so faithless, as not to be believed without them. And as to Ex<g ref="char:EOLhyphen"/>ecrations and Cursings of your self or others, consider, I beseech you, what <hi>David</hi> hath said, not barely by way of wish, but also of prophecie, in <hi>Psal.</hi> 109. 18, 19, <hi>&amp;c.</hi> I shall mention no o<g ref="char:EOLhyphen"/>ther ways whereby you may sin in your Speech, (1.) because all the fault thereof may be re<g ref="char:EOLhyphen"/>duced to these four; and (2.) because men are more eminent<g ref="char:EOLhyphen"/>ly liable to offend by speaking filthily, reproachfully, falsely, or prophanely.</p>
+            </div>
+            <div n="26" type="section">
+               <pb n="41" facs="tcp:44937:23"/>
+               <head>XXVI.</head>
+               <p>And having thus brought your Thoughts and Words to the Test, you are in like manner to deal with your Actions, in order to find out their obliqui<g ref="char:EOLhyphen"/>ty and pollution. And because every Christian is no less ac<g ref="char:EOLhyphen"/>countable for the good he has omitted when it was in his pow<g ref="char:EOLhyphen"/>er, than for the evil he hath committed when he might have prevented it: You are therefore, in the search of your Actions, to begin with the things you have left undone, which you ought to have done; and then to proceed to consider the things that you have done, which you ought not to have done. The former are usually call'd sins of <hi>Omission;</hi> the latter, sins of <hi>Commission.</hi> And here give me leave to tell you, that
+<pb n="42" facs="tcp:44937:24"/> besides a search into the <hi>sorts,</hi> you are also to seek into the <hi>degrees</hi> of your sins: For though sins consider'd naked in themselves, and as bare transgressions of a Rule, may seem to be all equal; yet looked upon in the circum<g ref="char:EOLhyphen"/>stances wherewith they are clo<g ref="char:EOLhyphen"/>thed, some will manifestly ap<g ref="char:EOLhyphen"/>pear greater than other. And though no sin whatsoever, can be said to be <hi>little,</hi> every one being a transgression of that Law which God has appointed to be the Instrument of his own Glory, and mans Salvation; yet there are circumstances which raise even little sins into high provocations.</p>
+            </div>
+            <div n="27" type="section">
+               <head>XXVII.</head>
+               <p>And you need no other Star to guide you in taking the <hi>de<g ref="char:EOLhyphen"/>grees</hi> of your sins against God, than the consideration of the
+<pb n="43" facs="tcp:44937:24"/> circumstances by which you are to measure the injuries done to your self. And I need not tell you, how the harm a man doth you is the more hainous, if he do it knowingly and willingly, than if he did it ignorantly and against his mind: Next, when he doth it purposely and with deliberation, than when he doth it suddenly and at unawares; when he doth it in the heat of Passion and blindness of Zeal, and according to his present sentiments, than when he doth it contrary to the checks and resistances of his Conscience, and the cool dictates of his Reason. You likewise judge the injury more grievous and provoking, the oftner it is repeated: and you can with less trouble for<g ref="char:EOLhyphen"/>give a few, than many faults. You also find your self more sensible of the wrong done by him you often pardon'd and
+<pb n="44" facs="tcp:44937:25"/> long spar'd; whom by many benefits you have oblig'd, and who has vow'd and promised to do so no more. And in the last place, it makes the wrong in<g ref="char:EOLhyphen"/>tolerable, that it is become cu<g ref="char:EOLhyphen"/>stomary; and that he that doth it, can by no reproof, threat<g ref="char:EOLhyphen"/>ning, exhortation, advice, or punishment, be diverted; but that notwithstanding all means used to the contrary, he goes on, and takes pleasure to trespass a<g ref="char:EOLhyphen"/>gainst you.</p>
+            </div>
+            <div n="28" type="section">
+               <head>XXVIII.</head>
+               <p>By these and the like circum<g ref="char:EOLhyphen"/>stances, you find the injury ag<g ref="char:EOLhyphen"/>gravated that is done against your self; and by application, you may also conclude how your sins against God become aggravated: Whom you may find you have too often offen<g ref="char:EOLhyphen"/>ded, <hi>knowingly,</hi> deliberately, a<g ref="char:EOLhyphen"/>gainst
+<pb n="45" facs="tcp:44937:25"/> the checks and motions of your own Conscience; after vows and promises of amend<g ref="char:EOLhyphen"/>ment; after the private admo<g ref="char:EOLhyphen"/>nitions of Friends, the publick exhortations of the Ministry, the menaces and promises of the Word.</p>
+            </div>
+            <div n="29" type="section">
+               <head>XXIX.</head>
+               <p>And when you have thus proceeded in the search both of the <hi>kinds</hi> and <hi>degrees</hi> of your sins, you are to know, that the end of all this unpleasing travel, is to bring you to Repentance. To which you can want no mo<g ref="char:EOLhyphen"/>tives, when you apprehend that by your sins you have incurr'd his displeasure, who is a <hi>consu<g ref="char:EOLhyphen"/>ming fire,</hi> and as an impartial Judge, will render to every man according to his deeds. And were your heart never so hard<g ref="char:EOLhyphen"/>ned, it will melt at the appre<g ref="char:EOLhyphen"/>hensions
+<pb n="46" facs="tcp:44937:26"/> of those misdoings by which you may (perhaps) have incensed Gods Mercie as well as Justice; and set his <hi>bowels</hi> no less than his <hi>hand</hi> against you. Sins in Scripture (you know) are call'd <hi>debts;</hi> which you are altogether unable by any other way to discharge, but by Re<g ref="char:EOLhyphen"/>pentance: A Dutie, though at all times, yet now in an especial manner required of you, when you come to the Sacrament. And Repentance being the sum and abridgement of all the Du<g ref="char:EOLhyphen"/>ties to be discharged by you at your coming thither, I shall briefly mind you what it is, or wherein it consists.</p>
+            </div>
+            <div n="30" type="section">
+               <head>XXX.</head>
+               <p>And not to trouble you with the Opinions of <hi>Schools, Fathers, Doctors,</hi> and <hi>Divines,</hi> you may find out the nature of Repen<g ref="char:EOLhyphen"/>tance
+<pb n="47" facs="tcp:44937:26"/> toward God, by consider<g ref="char:EOLhyphen"/>ing what that Repentance is which is required by one man from another. Where from him that has injured you, you expect no less than that he should con<g ref="char:EOLhyphen"/>fess how he hath offended you: Next, that he be sorry for ha<g ref="char:EOLhyphen"/>ving done so: And thirdly, that he make reparation, and resolve to do so no more. So that that which in Religion is properly called Repentance, consists in <hi>Confession, Sorrow, Reparation,</hi> and <hi>Resolution.</hi>
+               </p>
+            </div>
+            <div n="31" type="section">
+               <head>XXXI.</head>
+               <p>And first, as to Confession of sins, it is upon the account of common Ingenuitie to be ex<g ref="char:EOLhyphen"/>pected from every one who knows himself to be guiltie. Now that Confession which is valuable with the Almighty, a<g ref="char:EOLhyphen"/>riseth from an abhorrence of the
+<pb n="48" facs="tcp:44937:27"/> iniquities you confess; that thereby you have displeased God, and worthily deserved his Vengeance. And it runs through all the sorts of sins whereof you know your self to be conscious: Aggravating them with all their heightning <hi>circumstances;</hi> and comprizing your unknown sins in <hi>David</hi>'s penitent form, <hi>Who can tell how oft he offendeth? Cleanse me, O Lord, from my se<g ref="char:EOLhyphen"/>cret sins.</hi> But if in Confession of sins, you should be never so particular, yet if it be done with any milder purpose toward them, than their utter destru<g ref="char:EOLhyphen"/>ction, it will look rather like an Inventorie than a Confession; a counting up the goods you have a mind to preserve, rather than an acknowledgement of the sins you resolve to abandon. God forbid you should be ever so infatuated and befooled by your own fancie, as to imagine
+<pb n="49" facs="tcp:44937:27"/> the pure Eyes of God should be taken with the sight of your filthiness and obliquitie! or that you should think he is deligh<g ref="char:EOLhyphen"/>ted in the Narrative of those iniquities, whose committing he hath so strictly forbidden, and doth so greatly abhor! When you open your Ulcers unto God with any other intent than to have them healed, their view will excite his indignation, and not his pitie. When therefore you do not really intend to for<g ref="char:EOLhyphen"/>sake the sins you confess, you do in truth defend them, how loud<g ref="char:EOLhyphen"/>ly soever your Tongue may ac<g ref="char:EOLhyphen"/>cuse them. He onely who con<g ref="char:EOLhyphen"/>fesseth and forsaketh, shall find mercie. If you thus forsake your sins, God is faithful and just to forgive you your sins, and to cleanse you from all un<g ref="char:EOLhyphen"/>righteousness, 1 <hi>John</hi> 1. 9. He is bound in Fidelitie and Justice to fulfil that promise of Pardon
+<pb n="50" facs="tcp:44937:28"/> to <hi>you,</hi> which he has made to all Penitents, upon their humble Confession of sins, and sincere Reformation. This being the onely course whereby you may free your self from all punish<g ref="char:EOLhyphen"/>ment of sins, and become ca<g ref="char:EOLhyphen"/>pable of <hi>Mercy.</hi>
+               </p>
+            </div>
+            <div n="32" type="section">
+               <head>XXXII.</head>
+               <p>But besides this Confession thus to be made to God, there is also a <hi>Confession</hi> to be made unto the <hi>Guide of Souls,</hi> in cases of a <hi>troubled</hi> and <hi>doubting</hi> Con<g ref="char:EOLhyphen"/>science; and to the <hi>Church,</hi> in point of <hi>publick Offence</hi> and <hi>Scan<g ref="char:EOLhyphen"/>dal. Which sorts of Confession, as to their conduct, profitableness, and necessity, I shall not now han<g ref="char:EOLhyphen"/>dle, having designed them a di<g ref="char:EOLhyphen"/>stinct Treatise.</hi>
+               </p>
+            </div>
+            <div n="33" type="section">
+               <pb n="51" facs="tcp:44937:28"/>
+               <head>XXXIII.</head>
+               <p>The second branch or ingre<g ref="char:EOLhyphen"/>dient of Repentance, is <hi>Sorrow;</hi> which naturally results from Confession. For when by this you (as you must needs) have inform'd your self how you are guiltie of many and heinous sins, and the miseries to which they have exposed you; it were strange if the sight thereof should not make you sorrow<g ref="char:EOLhyphen"/>ful.</p>
+            </div>
+            <div n="34" type="section">
+               <head>XXXIV.</head>
+               <p>But seeing sorrow for sin has vulgarly engrost the whole No<g ref="char:EOLhyphen"/>tion of Repentance, and that men are prone to think they have quite extinguisht the wrath kindled by sin, when they have dropt a few tears up<g ref="char:EOLhyphen"/>on it; I shall here mind you of
+<pb n="52" facs="tcp:44937:29"/> the nature of that sorrow which accompanies true Repentance. And first, you will find it to have a double spring; the one a fear of danger, the other a dislike of sin. And first,</p>
+            </div>
+            <div n="35" type="section">
+               <head>XXXV.</head>
+               <p>That sorrow which ariseth onely from a sense of the dan<g ref="char:EOLhyphen"/>ger to which your sins have be<g ref="char:EOLhyphen"/>tray'd you, it doth not, say the Schools, break the heart, but onely <hi>fret</hi> it. So that this sense or fear of present danger being blown over, the sorrow caused by it doth also vanish, not lea<g ref="char:EOLhyphen"/>ving any mark of amendment behind it. And yet to this sor<g ref="char:EOLhyphen"/>row that we shall be punished (called <hi>Attrition)</hi> though ne<g ref="char:EOLhyphen"/>ver so emptie of reformation, by the absolution of the Priest, is turn'd into <hi>Contrition,</hi> say the Roman Casuists. Which is a
+<pb n="53" facs="tcp:44937:29"/> most unkind deceit of Souls; the Scripture having made no pro<g ref="char:EOLhyphen"/>mise, that flying from the wrath to come, shall be sufficient to obtain pardon, without bring<g ref="char:EOLhyphen"/>ing forth meet fruits of Repen<g ref="char:EOLhyphen"/>tance.</p>
+            </div>
+            <div n="36" type="section">
+               <head>XXXVI.</head>
+               <p>Secondly, There is a sorrow arising from a dislike to sin, and <hi>conscientious thoughts,</hi> that there<g ref="char:EOLhyphen"/>by you have undutifully grie<g ref="char:EOLhyphen"/>ved and provoked so good a God, so compassionate a Father, so gracious a Redeemer, and so blessed a Sanctifier. And this never misses of producing the effect of true sorrow; which is, <hi>to sin no more.</hi> For, for a man to be sorrowful out of an ap<g ref="char:EOLhyphen"/>prehension of the punishments God has annext to sin, rather than that hereby his Law has been transgressed, and the Con<g ref="char:EOLhyphen"/>science
+<pb n="54" facs="tcp:44937:30"/> polluted; this is to grieve rather that God is just, than you are guiltie.</p>
+            </div>
+            <div n="37" type="section">
+               <head>XXXVII.</head>
+               <p>Sorrow for sin, is very proper to turn your stomach against it; and you must have less sense than the <hi>Brute</hi> you ride on, if you shun not that has caused you to smart, and put you to pain. But yet there are other fruits of Repentance, that must deliver you from the wrath to come: for meer fear of danger can be no further reasonable, or useful, than as it disposeth you to forsake the sins that caused it. But if you should be so far bewitched, through the deceit<g ref="char:EOLhyphen"/>fulness of sin, that you will not leave it, though you die in its arms; or if you grieve that you have sin'd, and yet still go on to sin; if knowing the malig<g ref="char:EOLhyphen"/>nitie,
+<pb n="45" facs="tcp:44937:30"/> and having poised and found the weight of sin to be as a talent of Lead upon your Soul, and notwithstanding all this, you still venture on to commit it; this will leave you unpardon'd, because unreform'd, and make all your tears as water spilt up<g ref="char:EOLhyphen"/>on the ground.</p>
+            </div>
+            <div n="38" type="section">
+               <head>XXXVIII.</head>
+               <p>Sorrow for having offended God, the greater it is, the more acceptable it is to him, and pro<g ref="char:EOLhyphen"/>fitable for your self. For it be<g ref="char:EOLhyphen"/>ing a sort of punishment, the more afflictive it is, the more surely it will accomplish the in<g ref="char:EOLhyphen"/>tent of all punishments, even the amendment of the Offen<g ref="char:EOLhyphen"/>der: And if you once have felt the pain and trouble of a woun<g ref="char:EOLhyphen"/>ded Conscience, you will have no great mind to venture afresh upon the sins that caused it.
+<pb n="56" facs="tcp:44937:31"/> In short, sorrow arising out of a fear of danger, proceeds from a love to your self, and therefore can never avail you for pardon: But godly sorrow, working re<g ref="char:EOLhyphen"/>pentance to salvation, ariseth from a love to God, whom the more you love, the more you will grieve to have offended him. Sorrow arising from fear of Gods vengeance, usually ter<g ref="char:EOLhyphen"/>minates and ends in a sullen de<g ref="char:EOLhyphen"/>spondencie, and desperate dejecti<g ref="char:EOLhyphen"/>on of Spirit; but sorrow for having provoked God, changeth the mind, turns you from sin to holiness, and the constant practice of all those Christian Duties which the Gospel re<g ref="char:EOLhyphen"/>quires at your hands. But if you find your self herein to be lumpish and heavie, and that you cannot grieve to that de<g ref="char:EOLhyphen"/>gree you ought; then the way to quicken up your penitential sorrow, is to quicken up your
+<pb n="57" facs="tcp:44937:31"/> love to God, to which his con<g ref="char:EOLhyphen"/>tinual favours do most power<g ref="char:EOLhyphen"/>fully oblige you. Wicked men love those that love them: and if you were sensible (which is impossible) of no other of Gods kindnesses but his sparing you when you deserved punishment, and his giving you space to re<g ref="char:EOLhyphen"/>pent; when he might have cut you off in your sins; this were enough to engage you to love him with all the kinds and de<g ref="char:EOLhyphen"/>grees of the purest affection. Imagine how many have been snatcht hence in a moment, whose offences have (perchance) not been so provoking as your own. Consider what could move God to spare you in a con<g ref="char:EOLhyphen"/>tinued course of many years disobedience against him, but his own unspeakable goodness, and because he was loth to have you perish. Let pure thoughts of Gods love dwell in your
+<pb n="58" facs="tcp:44937:32"/> heart, and they will melt it down into an humble and con<g ref="char:EOLhyphen"/>trite sadness that you have dealt so unkindly as to forsake the Lord.</p>
+            </div>
+            <div n="39" type="section">
+               <head>XXXIX.</head>
+               <p>And if the sole consideration of Gods long-suffering, be so in<g ref="char:EOLhyphen"/>genuous an Engagement, to make you grieve for having sin'd against him; you will find the multitude of his other mer<g ref="char:EOLhyphen"/>cies to cause Rivers of waters to run down your eyes for having broken his Laws. And if your heart be so hard, that it will not relent upon these considera<g ref="char:EOLhyphen"/>tions, then have you great rea<g ref="char:EOLhyphen"/>son to importune God with humble prayer, that he would smite that <hi>Rock,</hi> your heart, that it may flow with the tears of true Repentance, the waters of a second Baptism; that he would
+<pb n="59" facs="tcp:44937:32"/> give you such a clear sight of your sins, as may at once cause you to sorrow for, and abandon them.</p>
+            </div>
+            <div n="40" type="section">
+               <head>XL.</head>
+               <p>Reparation is a third branch of true Repentance; and is due to God, to Man. First, to God, who in all injuries is the first partie injured: For though you may offend both against your self and Neighbour, yet the Law is God's which thereby is trans<g ref="char:EOLhyphen"/>gressed; and therefore Repara<g ref="char:EOLhyphen"/>tion in the first place is to be made to <hi>him.</hi> And seeing sins have both the nature and name of <hi>Trespasses</hi> and <hi>Debts,</hi> Justice requires they be satisfied and paid: and all that you can do in order hereunto, is <hi>Repentance.</hi> In which God receives a sort of Reparation, because he requires no other satisfaction for your
+<pb n="60" facs="tcp:44937:33"/> faults, but that you truly be<g ref="char:EOLhyphen"/>wail and amend them; which is the sum of Repentance to<g ref="char:EOLhyphen"/>ward God, <hi>Acts</hi> 20. 21.</p>
+            </div>
+            <div n="41" type="section">
+               <head>XLI.</head>
+               <p>But for Trespasses done a<g ref="char:EOLhyphen"/>gainst your Neighbour, there is another-guess satisfaction requi<g ref="char:EOLhyphen"/>red. For to those from whom you have exacted more than is due, you are bound to make restitution. Which was estee<g ref="char:EOLhyphen"/>med such a principle of com<g ref="char:EOLhyphen"/>mon Equitie, that it was ac<g ref="char:EOLhyphen"/>knowledged by those whom the <hi>Jews</hi> esteemed the worst sort of men: For the Publican (in St. <hi>Luke</hi> 19. 8.) finding him<g ref="char:EOLhyphen"/>self bound, freely offer'd to make fourfold restitution (ac<g ref="char:EOLhyphen"/>cording to the Law for Thieves) of whatever he had falsly taken from any man. And though this may have a harsh and un<g ref="char:EOLhyphen"/>pleasing
+<pb n="61" facs="tcp:44937:33"/> sound, yet if you con<g ref="char:EOLhyphen"/>sult Divines, <hi>antient</hi> and <hi>modern,</hi> in this particular, you will find them all concluding Repen<g ref="char:EOLhyphen"/>tance without Restitution, to be like an arm of flesh without strength and service; or as a Citie wanting walls, unfit to secure the <hi>Inhabitants.</hi> And therefore fail not to make satis<g ref="char:EOLhyphen"/>faction to those you have wrong'd, if it be in your power: but if wholly unable, then let your desire of so doing be so express, manifest, and plain, that <hi>good</hi> men, no less than God, may be moved to accept the <hi>will</hi> for the <hi>deed.</hi> But to tell him whom you have injur'd, You are sorrie for what you have done, and yet offer him no further amends, when you are able, I leave it to common construction, whether this can be deem'd satisfactorie.</p>
+            </div>
+            <div n="42" type="section">
+               <pb n="62" facs="tcp:44937:34"/>
+               <head>XLII.</head>
+               <p>Minds truly Christian, can<g ref="char:EOLhyphen"/>not be at ease, till they have re<g ref="char:EOLhyphen"/>paired the wrongs they have done: for it is a burden upon the Conscience, of which you cannot be rid, but by satisfying your self in making satisfaction to him you have injured. If you wrong your Neighbour, it is your fault; and you, and not he, ought to repent and be grie<g ref="char:EOLhyphen"/>ved for it: but if the injurie be done to <hi>you,</hi> either quite forget it, being content that God, to whom Vengeance belongs, keeps it in memorie; or if the injurie be of that nature that you are oblig'd to take notice of it, then implore God to direct you to such ways of satisfaction, as are agreeable to <hi>Peace</hi> and <hi>Honour,</hi> free from Bloud and Crueltie. Ever remembring, that Charitie
+<pb n="63" facs="tcp:44937:34"/> and Meekness are more noble and worthie, than Impatience, or even Valour it self. The tops of those Mountains which are above the Clouds, are not bea<g ref="char:EOLhyphen"/>ten with Hail and Rain: and Spirits truly high and generous, are above the insolencies of un<g ref="char:EOLhyphen"/>advised persons, and enjoy se<g ref="char:EOLhyphen"/>renitie and a calm during such tempests. It is in your power to falsifie the Italian Maxime, <hi>Chi offende non perdona Mas:</hi> He that offends never pardons. In a word, if Jesus our great Master, forgave those who put him to death, and was careful to heal the wound his Disciple had given <hi>Malchus;</hi> you can never refuse to cure the wounds you have either given or recei<g ref="char:EOLhyphen"/>ved.</p>
+            </div>
+            <div n="43" type="section">
+               <pb n="64" facs="tcp:44937:35"/>
+               <head>XLIII.</head>
+               <p>The last branch of Repen<g ref="char:EOLhyphen"/>tance, is a resolution to sin no more; or a steadfast purpose to lead a new life, to follow the Commandments of God, and to walk in his most holy ways. For without this, all other parts of Repentance will be to no more purpose, than it is to pump in a Ship without stopping the leak. In the Law, if a man held the unclean thing in his hand, he was unclean, though he wash'd his hands never so of<g ref="char:EOLhyphen"/>ten. Which is easily applicable to those persons, who confess and sorrow for their sins, but take no care to avoid them. Where<g ref="char:EOLhyphen"/>as the very Heathen, according to <hi>A. Gellius (Noct. Atiic. lib.</hi> 17. <hi>cap.</hi> 1.) never thought that a man repented, till he was dis<g ref="char:EOLhyphen"/>pleased with the things he had
+<pb n="65" facs="tcp:44937:35"/> done, and changed his mind con<g ref="char:EOLhyphen"/>cerning them, and became ano<g ref="char:EOLhyphen"/>ther man. Your Repentance then is imperfect, till you resolve against all sorts and degrees of sin for the time to come.</p>
+            </div>
+            <div n="44" type="section">
+               <head>XLIV.</head>
+               <p>And because your Dutie con<g ref="char:EOLhyphen"/>sists in <hi>Obedience</hi> to Gods Com<g ref="char:EOLhyphen"/>mandments, your <hi>Resolution</hi> must have a respect unto them all. And being each sin is a transgression of some one Com<g ref="char:EOLhyphen"/>mand in particular, and that you, as all men, are proner to some than other sins; you are to en<g ref="char:EOLhyphen"/>quire what the sins are to which you are pronest, and to have the Commandment continually in your eye, which you are so apt to violate; and so to watch more especially against the vio<g ref="char:EOLhyphen"/>lation of that particular Com<g ref="char:EOLhyphen"/>mandment.</p>
+            </div>
+            <div n="45" type="section">
+               <pb n="66" facs="tcp:44937:36"/>
+               <head>XLV.</head>
+               <p>And having resolved upon e<g ref="char:EOLhyphen"/>very branch of Dutie, and en<g ref="char:EOLhyphen"/>tire observance to every Com<g ref="char:EOLhyphen"/>mandment apart, you are then to make trial of the sinceritie of your Resolutions, whether they be not onely formal and customarie, such as people usu<g ref="char:EOLhyphen"/>ally put on when they come to the Sacrament; or, but onely politick and carnal, to keep up your credit with the World, to further some design you have on foot; or to quiet some pre<g ref="char:EOLhyphen"/>sent troubles of mind. For if your Resolutions are of this sort, they will soon vanish; but if they are sincere, and truly reli<g ref="char:EOLhyphen"/>gious, then will they prove la<g ref="char:EOLhyphen"/>sting, and you will use all possi<g ref="char:EOLhyphen"/>ble endeavours to continue them unto the end, and to bring all your good purposes to good ef<g ref="char:EOLhyphen"/>fect.</p>
+            </div>
+            <div n="46" type="section">
+               <pb n="67" facs="tcp:44937:36"/>
+               <head>XLVI.</head>
+               <p>Nothing is more certain, than that you cannot worthily re<g ref="char:EOLhyphen"/>ceive the holy Sacrament, with<g ref="char:EOLhyphen"/>out a perfect hatred of every sin: and it is also most certain, that your hatred of sin is not perfect, if you are not fully resolved to forsake and avoid it: For who can imagine you hate what you ever embrace and pursue? Re<g ref="char:EOLhyphen"/>solutions, though never so good, are seldom durable, if they are sudden and vehement: He that makes a Resolution, without due consideration, will in like man<g ref="char:EOLhyphen"/>ner break and reverse it. And though you need not consult whether you are to turn from Satan unto God, and to forsake Wickedness and follow after Ver<g ref="char:EOLhyphen"/>tue; yet the means of keeping such a holy purpose, ought to fall under your most sober and
+<pb n="68" facs="tcp:44937:37"/> serious thoughts. And you had need herein to be careful how you advise with flesh and bloud; for these will counsel you to take part with your ease, and seduce you to reject even the fittest means of keeping your Resolutions, when they become difficult and unpleasing. And therefore as you resolve upon the <hi>end,</hi> so you must also upon the way thither, though never so irksome to the flesh; consi<g ref="char:EOLhyphen"/>dering that even the recoverie of bodily health seldom is pro<g ref="char:EOLhyphen"/>cured, without the use of dis<g ref="char:EOLhyphen"/>gustful Medicines.</p>
+            </div>
+            <div n="47" type="section">
+               <head>XLVII.</head>
+               <p>And as you are thus to re<g ref="char:EOLhyphen"/>solve upon the use of the likeli<g ref="char:EOLhyphen"/>est means to further and com<g ref="char:EOLhyphen"/>pleat your holy purposes, so likewise to avoid all things that may divert and hinder them.
+<pb n="69" facs="tcp:44937:37"/> And amongst the fatal Impedi<g ref="char:EOLhyphen"/>ments of your <hi>religious inten<g ref="char:EOLhyphen"/>tions,</hi> all things are to be rec<g ref="char:EOLhyphen"/>kon'd which any way lead, tempt, and invite to sin. And you may here do wisely to call to mind, by what occasions, and with what baits you have been and still are apt to be drawn a<g ref="char:EOLhyphen"/>way and enticed; to the end you may with greater vigilance and courage avoid and resist them. For common Prudence will teach you to strengthen the <hi>Fence</hi> where the Beast useth to break in; and to re-enforce that <hi>Avenue,</hi> where the Enemie is wont to make and prevail in his Attack.</p>
+            </div>
+            <div n="48" type="section">
+               <head>XLVIII.</head>
+               <p>The last thing I shall men<g ref="char:EOLhyphen"/>tion concerning your Religious Resolutions, is their speedie ex<g ref="char:EOLhyphen"/>ecution: for delay therein, has
+<pb n="70" facs="tcp:44937:38"/> ever been thought dangerous, as having a throat wide enough to swallow the biggest opportuni<g ref="char:EOLhyphen"/>tie. And you cannot be safe, till you practise what you pur<g ref="char:EOLhyphen"/>pose: for seeing your life con<g ref="char:EOLhyphen"/>tinually walks (to and fro) in a breath, and that you have no warrant of being able to do that the next hour, which this you neglect and put off; this through<g ref="char:EOLhyphen"/>ly concludes for the present do<g ref="char:EOLhyphen"/>ing of what you purpose. And if holy Resolutions might safely be delay'd, yet they can be de<g ref="char:EOLhyphen"/>lay'd no longer than your com<g ref="char:EOLhyphen"/>ing to the Sacrament; because you cannot safely approach that Ordinance, without stedfastly purposing to lead a <hi>new life:</hi> for till you are a new Creature, or begin to lead a <hi>new life,</hi> you are, in sence of Scripture, <hi>dead:</hi> And how absurd a thing is it to put Bread and Wine into a dead mans mouth, none so stupid as
+<pb n="71" facs="tcp:44937:38"/> not to imagine. You may in<g ref="char:EOLhyphen"/>deed naturally eat and drink the <hi>Bread</hi> and <hi>Wine,</hi> receive into your stomach the elements of the Sacrament; but if you live in the liking, much more in the commission, of any thing you know to be sin, you can receive no more spiritual nourishment in the Sacrament, than a dead Carcass at the <hi>best Entertain<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+            </div>
+            <div n="49" type="section">
+               <head>XLIX.</head>
+               <p>And this is another conside<g ref="char:EOLhyphen"/>ration that lays upon you a ne<g ref="char:EOLhyphen"/>cessitie presently to renounce your sins, to give them a Bill of Divorce, and to withdraw from them all degrees of kindness and respect: For without this, you can be in no fit disposition to be married to Christ, and to em<g ref="char:EOLhyphen"/>brace all the Graces slowing from him. In short, that Re<g ref="char:EOLhyphen"/>solution
+<pb n="70" facs="tcp:44937:39"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="71" facs="tcp:44937:39"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="72" facs="tcp:44937:40"/> which I call a branch of Repentance, and which is in<g ref="char:EOLhyphen"/>dispensibly required of you when you come to the Lords Table, is made up of these two things. <hi>First,</hi> Renouncing of all sin: <hi>Secondly,</hi> Embracing of all Christian Vertues. The first without the second, is but swee<g ref="char:EOLhyphen"/>ping the house without furnish<g ref="char:EOLhyphen"/>ing it: And therefore when you have cleansed your Soul of the nastiness and dirt of sin, you are not to let it lie emptie; but to furnish it with all those Graces commanded you in the Gospel, such especially as are required in every one coming to the Supper of the Lord: and those are chiefly three; namely, <hi>Faith, Charity,</hi> and <hi>Devotion.</hi>
+               </p>
+            </div>
+            <div n="50" type="section">
+               <pb n="73" facs="tcp:44937:40"/>
+               <head>L.</head>
+               <p>The necessitie of <hi>Faith</hi> is ex<g ref="char:EOLhyphen"/>presly taught you by <hi>your</hi> first Catechism; where it saith, <hi>That a lively Faith in Gods Mercies through Christ,</hi> is required of e<g ref="char:EOLhyphen"/>very Communicant: and that <hi>the Body and Bloud of Christ are verily and indeed taken and re<g ref="char:EOLhyphen"/>ceived by the faithful in the Lords Supper.</hi> For it is by Faith that you there look upon him, whom God hath set forth to be the Propitiation for your sins, even Jesus Christ, <hi>the Lamb of God that taketh away the sins of the world,</hi> Rom. 3. 25. John 1. 29. You easily perceive the neces<g ref="char:EOLhyphen"/>sitie of <hi>Faith,</hi> when you mind that in receiving the Holy Sa<g ref="char:EOLhyphen"/>crament, you are to believe that Jesus is the true Seed of the Woman, which was promised in the beginning, and was sent in
+<pb n="74" facs="tcp:44937:41"/> the fulness of time, that in him all the Nations of the Earth (if they will) may be blessed; he being the Universal and Mightie Saviour, who both will and can save all that come un<g ref="char:EOLhyphen"/>to him; there being none other in whom Salvation is to be ex<g ref="char:EOLhyphen"/>pected. You are likewise to believe that he was crucified, or died an ignominious or cursed death; and that the Merits of his death are sufficient to save all sinners; and that all those Merits are convey'd to you in the Sacrament, when it is wor<g ref="char:EOLhyphen"/>thily received.</p>
+            </div>
+            <div n="51" type="section">
+               <head>LI.</head>
+               <p>But as to the clear nature of that Faith now required of you, the Church fairly intimates what it is, when she calls it a <hi>lively Faith in Gods mercy through Christ.</hi>
+               </p>
+            </div>
+            <div n="52" type="section">
+               <pb n="75" facs="tcp:44937:41"/>
+               <head>LII.</head>
+               <p>And Faith is said to be <hi>lively,</hi> when it works through love, shewing it self in well-doing: for where Life is, there will be Action. And the life of Faith, like that of Nature, will shew it self in the Heart, Tongue, and Hands. In the first, by <hi>sincere<g ref="char:EOLhyphen"/>ness of Devotion</hi> and <hi>holy thoughts:</hi> In the second, by wholsome and gracious <hi>Communication:</hi> And in the last, by works of Justice and Charitie.</p>
+            </div>
+            <div n="53" type="section">
+               <head>LIII.</head>
+               <p>The Object of this lively Faith, is <hi>God's Mercy;</hi> upon which it reflects, as the Fountain whence the Scriptures have pro<g ref="char:EOLhyphen"/>ceeded; in which Gods Cove<g ref="char:EOLhyphen"/>nant for Mans Redemption, is established; and his Promises to
+<pb n="76" facs="tcp:44937:42"/> believing penitent sinners, are contained. And if you shall en<g ref="char:EOLhyphen"/>quire into the reason of all this, you will find that nothing but his meer Mercie moved God to make known his <hi>Will;</hi> and in the Holy Scriptures to reveal the Means of Salvation, and make the Way to Heaven plain and easie. It was onely to shew the great Love wherewith he loved you, and the exceeding Riches of his Grace, that prevai<g ref="char:EOLhyphen"/>led with God to be thus kind un<g ref="char:EOLhyphen"/>to you.</p>
+            </div>
+            <div n="54" type="section">
+               <head>LIV.</head>
+               <p>But all this is <hi>through Christ;</hi> he is the Conduit of all these Blessings, being of God made unto all Believers, <hi>Wisdom, Righteousness, Sanctification, Re<g ref="char:EOLhyphen"/>demption.</hi> He is the Author of all true Knowledge, the cause of your Justification, your Sancti<g ref="char:EOLhyphen"/>fication,
+<pb n="77" facs="tcp:44937:42"/> and will be also of your <hi>Deliverance</hi> and rescue from all Calamities that you are subject to in this life, and at last from Death it self, by raising you a<g ref="char:EOLhyphen"/>gain, 1 <hi>Cor.</hi> 1. 30. And as by a voice from Heaven God decla<g ref="char:EOLhyphen"/>red with solemnitie, that he was well pleased with Christ: so he hath likewise declared, that he is well pleased with Believers onely for his sake. By Christ you are predestinated, adopted, accepted, and pardon'd, and shall be glo<g ref="char:EOLhyphen"/>rified. So that in your own person you may speak as the A<g ref="char:EOLhyphen"/>postle did in the Name of all Christians, <hi>Ephes.</hi> 1. 3, 4, 5, <hi>&amp;c. Blessed be the God and Father of our Lord Jesus Christ, who hath blessed me with all spiritual bles<g ref="char:EOLhyphen"/>sings in heavenly things in Christ; according as he hath chosen me in him, that I should be holy, and without blame before him in love.</hi>
+               </p>
+            </div>
+            <div n="55" type="section">
+               <pb n="78" facs="tcp:44937:43"/>
+               <head>LV.</head>
+               <p>
+                  <hi>In whom I have redemption through his bloud, the forgiveness of sins, according to the riches of his grace,</hi> &amp;c.</p>
+               <p>It is impossible in any Dutie, without Faith, to please God, or to be accepted of him; because whatsoever is not of Faith, is sin. But in the matter of the Holy Sacrament, Faith hath a more appropriate Office: for by it, as by a hand, mouth, and stomach, you receive, eat, and digest the spiritual Food and heavenly Sustenance by which your Soul is nourished to eter<g ref="char:EOLhyphen"/>nal life. And in the sense of the Spirit, to eat and drink the Body and Bloud of Christ, is properly to believe on him in the Sacrament: which doth not onely represent unto you the manner of Christs death, and in
+<pb n="79" facs="tcp:44937:43"/> visible actions set before you what he suffered on the Cross: Nor doth the Sacrament onely convey unto you that Grace which flows from Christs death; but it doth seal and confirm un<g ref="char:EOLhyphen"/>to every worthy Communicant, all the benefits of Christs Passion. For God, to magnifie his mercie and goodness towards Believers, was not content to give them onely a general offer of his Pro<g ref="char:EOLhyphen"/>mises in Christ; but thought fit to seal them to every particular penitent Christian, and in the Sacrament actually to deliver him them. Faith apprehending and applying the benefits of Christ, which are all comprized in the <hi>Forgiveness</hi> of sins, and Salvation; the sum of all the happiness of this World, and of that which is to come.</p>
+            </div>
+            <div n="56" type="section">
+               <pb n="80" facs="tcp:44937:44"/>
+               <head>L VI.</head>
+               <p>And having tried and found your Faith toward God to be such, as he has promised not to be displeased with; your next business is to examine your Charitie toward your Neigh<g ref="char:EOLhyphen"/>bour: for it is required of them who come to the Lords Supper, <hi>to be in charity with all men. If thou bringest thy gift to the Altar, and there rememberest that thy brother hath ought against thee, leave there thy gift before the Al<g ref="char:EOLhyphen"/>tar, and go thy way, first be recon<g ref="char:EOLhyphen"/>conciled to thy brother, and then come and offer thy gift.</hi> This was our Saviour's advice to the Jews, and may thus be transla<g ref="char:EOLhyphen"/>ted to your self and every Chri<g ref="char:EOLhyphen"/>stian: If at <hi>any time you are</hi> co<g ref="char:EOLhyphen"/>ming to the Lords Table, and there call to mind that you have done any man any injury, do
+<pb n="81" facs="tcp:44937:44"/> you repair first to that person whom you have injured, use means to reconcile him to you, repair the wrong, and if you cannot, let him know your wil<g ref="char:EOLhyphen"/>lingness, and request his pardon; and having done thus, return to compleat your intention, and receive the Sacrament in testi<g ref="char:EOLhyphen"/>mony of your peace with God and your Neighbour. This re<g ref="char:EOLhyphen"/>concilement with your Bre<g ref="char:EOLhyphen"/>thren, is absolutely necessary, not onely to make your parti<g ref="char:EOLhyphen"/>cipation of the Sacrament, but all other performances accepta<g ref="char:EOLhyphen"/>ble to God. And you see it con<g ref="char:EOLhyphen"/>sists in a confession of your wrong, and repairing it; it be<g ref="char:EOLhyphen"/>ing reasonable, that in order to obtain his pardon whom you have injured, you acknow<g ref="char:EOLhyphen"/>ledge your fault to him, and to the utmost of your ability make him amends.</p>
+            </div>
+            <div n="57" type="section">
+               <pb n="82" facs="tcp:44937:45"/>
+               <head>LVII.</head>
+               <p>And as to this Charity here spoken of, the very Elements of the Lords Supper figure and en<g ref="char:EOLhyphen"/>force it: for the many grains made up into one loaf, and the many grapes pressed into one Cup, signifie how we being ma<g ref="char:EOLhyphen"/>ny, are made one Bread and one Body. And nothing can make all Christians to be <hi>affectionately</hi> one, but Charitie; or mystical<g ref="char:EOLhyphen"/>ly and spiritually one, except Charitie, the Bond of Peace and Union. And this is that hea<g ref="char:EOLhyphen"/>venly temper of mind, to which Christians are obliged, upon the account of the nearness of that relation which is amongst them: for they have all but one <hi>Father,</hi> one <hi>Saviour,</hi> one <hi>Sanctifier;</hi> they all profess one <hi>Faith,</hi> have all received one and the same Bap<g ref="char:EOLhyphen"/>tism, and all expect one and the
+<pb n="83" facs="tcp:44937:45"/> same Inheritance. But if in spight of all this you trample Charity under feet, and instead of being reconciled to your Neighbour, you malice and hate him; you are no more fit for the Sacrament, than a Mur<g ref="char:EOLhyphen"/>derer: for such are all those, who hate their fellow-Christians, ac<g ref="char:EOLhyphen"/>cording to St. <hi>John,</hi> in the third and fourth Chapters of his first Epistle.</p>
+            </div>
+            <div n="58" type="section">
+               <head>LVIII.</head>
+               <p>And as Charitie binds you to seek to be reconciled to those whom you have injured, and to obtain their pardon; so it like<g ref="char:EOLhyphen"/>wise engageth you to forgive those by whom you have been wrong'd. And indeed the for<g ref="char:EOLhyphen"/>giving other their Trespasses, is the condition of obtaining the forgiveness of your own: for if you forgive men their Trespasses,
+<pb n="84" facs="tcp:44937:46"/> your heavenly Father will for<g ref="char:EOLhyphen"/>give you; but if you forgive not men their Trespasses, neither will your Father forgive your Trespasses. This was our Sa<g ref="char:EOLhyphen"/>viours own <hi>Doctrine (Mat.</hi> 18. from <hi>vers.</hi> 23. to the end) and also his <hi>Practice,</hi> when he pray'd for the forgiveness of his <hi>Cruci<g ref="char:EOLhyphen"/>fiers,</hi> and that at a time too when his own most gracious A<g ref="char:EOLhyphen"/>gonies and Pains might justly have diverted all respect to o<g ref="char:EOLhyphen"/>thers, especially to those who were then actually putting him to death. How dismal then is your condition, if instead of ha<g ref="char:EOLhyphen"/>ving your heart replenished with Charitie, it be full of Ma<g ref="char:EOLhyphen"/>lice! if instead of obeying the Doctrine, and following the Ex<g ref="char:EOLhyphen"/>ample of Christ, you act quite contrary! If you find your brest barren of this kindness to your fellow-Christians, pretend not to any real respect to the blessed
+<pb n="85" facs="tcp:44937:46"/>
+                  <hi>Author</hi> of that <hi>Name.</hi> For <hi>if a man say, I love God, and hateth his</hi>
+                  <note place="margin">1 John 4. 20.</note>
+                  <hi>brother, he is a lyar: for he that loveth not his brother, whom he hath seen, how can he love God, whom he never saw?</hi> You never beheld God with any eye but that of <hi>Faith;</hi> and therefore could never have opportunitie (if he needed it) to shew any kindness to his <hi>Person.</hi> So that all you can do to testifie you love him, is your Obedience to his Commands; whereof this is the sum, <hi>That he who loveth God, loves his brother also,</hi> 1 John 4. 21.</p>
+            </div>
+            <div n="59" type="section">
+               <head>LIX.</head>
+               <p>And if this love be without dissimulation, such as Scripture and common Equitie requires at your hands, it will not onely appear in a merciful forgiveness of Offenders, but also in a liberal
+<pb n="86" facs="tcp:44937:47"/> relief of the needie. And I men<g ref="char:EOLhyphen"/>tion this latter act of Charitie, because I find that something was ever given to the Corban of the Poor by those who came to the Sacrament. If you con<g ref="char:EOLhyphen"/>sult the practice of the <hi>Primi<g ref="char:EOLhyphen"/>tive</hi> (the best Guide for the <hi>present)</hi> Church, you will hard<g ref="char:EOLhyphen"/>ly find that the <hi>Lords Supper</hi> was ever administred without an <hi>Of<g ref="char:EOLhyphen"/>fertory.</hi> In <hi>Acts</hi> 2. 45, 46. you have mention made of selling Possessions and Goods, and par<g ref="char:EOLhyphen"/>ting them to all as every man had need. And that this was done at the solemn times of publick Prayers, and receiving of the Sacrament, there is light enough in the Text to clear it. You read likewise of a Com<g ref="char:EOLhyphen"/>mand, <hi>That upon the first day of the week, every man should lay by him in store, as God hath prospered him.</hi> The first day of the week was that we now call <hi>Sunday,</hi> and
+<pb n="87" facs="tcp:44937:47"/> the Lords day, whereon the Lords Supper was constantly re<g ref="char:EOLhyphen"/>ceived; <note place="margin">1 Cor. 16. 2.</note> unto which they never came emptie, but according as God had increased their Goods, the Communicants gave to the relief of the Poor. And if you look into the ancient Liturgies, you will find them generally taking notice of this Religious Custom. And that this was in<g ref="char:EOLhyphen"/>tended by our own Church, is concludible from her placing <hi>Texts</hi> to perswade to this sort of Charitie, and desiring God to ac<g ref="char:EOLhyphen"/>cept our <hi>Alms and Oblations</hi> in the Communion-office. In <hi>Ju<g ref="char:EOLhyphen"/>stin Martyr,</hi> a Father of the se<g ref="char:EOLhyphen"/>cond Age, we read how the <note place="margin">Apol. 2.</note> Christians brought forth some of the good Fruits of the Earth, and offer'd them at Gods Table; and the Bishop, or in his absence the Presbyter, received them as an <hi>Abel</hi>'s <hi>Offering,</hi> and blessed God for the Fruits of the Season.
+<pb n="88" facs="tcp:44937:48"/> After the Sacrament was cele<g ref="char:EOLhyphen"/>brated, there was one common Table for Rich and Poor, where<g ref="char:EOLhyphen"/>at they did eat promiscuously; and what was left, was given to those in want. And this I take was the Agape, or Feast of Love mentioned by St. <hi>Jude,</hi> and de<g ref="char:EOLhyphen"/>scribed by <hi>Tertullian.</hi>
+                  <note place="margin">Apol. c. 38.</note>
+               </p>
+            </div>
+            <div n="60" type="section">
+               <head>LX.</head>
+               <p>And in proportion to this Cu<g ref="char:EOLhyphen"/>stom, when you come to the Sacrament, you are to bestow something on the Poor, that you appear not before the Lord em<g ref="char:EOLhyphen"/>ptie, and serve him of that which cost you nothing. And though you are as to the quan<g ref="char:EOLhyphen"/>tity of your Alms, left at liberty, yet you had best to be merciful according to your power. If you have much, give plente<g ref="char:EOLhyphen"/>ously; if you have little, do your diligence gladly to give of
+<pb n="89" facs="tcp:44937:48"/> that little: for so you gather your self a good Reward in the day of Necessity.</p>
+               <p>In the Sacrament, by a joynt communicating in the same di<g ref="char:EOLhyphen"/>vine Mysteries, you attest to the World your being united to Christ your Head, and to every true Christian as a fellow-mem<g ref="char:EOLhyphen"/>ber of the same Body. And as <hi>Faith</hi> unites you to Christ, so Charity also to his Members; and by vertue of these two Gra<g ref="char:EOLhyphen"/>ces, the Sacrament seals the Communion of the Members with the Head, and of the Mem<g ref="char:EOLhyphen"/>bers one with another. But when you come to the Sacra<g ref="char:EOLhyphen"/>ment with Malice in your Soul, you can have no true Commu<g ref="char:EOLhyphen"/>nion with either; but are guil<g ref="char:EOLhyphen"/>ty of the vilest Hypocrisie, by making profession of that Chri<g ref="char:EOLhyphen"/>stian or Brotherly Charity, whereof your heart is void and emptie. In this case I refer you
+<pb n="90" facs="tcp:44937:49"/> once more to the counsel of our Saviour, St. <hi>Mat.</hi> 5. 23, 24. where two things appear for your instruction; <hi>viz.</hi> (1.) That though the Gift be already at the Altar, it must be left there rather unoffer'd, than be offer'd by one who is not at perfect Peace with his Neighbour. (2.) That he is not to neglect or quite put off the Offering of his Gift, but presently to remove <note place="margin">Tobit 4. 8.</note> the occasion of his not offering it aright.</p>
+            </div>
+            <div n="61" type="section">
+               <head>LXI.</head>
+               <p>And when you find your Heart duly furnished with Faith toward God, and (the proper effect thereof) Charitie toward man, you must once more go down into your Soul, to see if it have that holy and heavenly temper called <hi>Devotion;</hi> which is a Grace so sutable to the recei<g ref="char:EOLhyphen"/>ving
+<pb n="91" facs="tcp:44937:49"/> of the Sacrament, that it seems to make up the whole <hi>Office.</hi> And if Devotion be not so warm and vigorous in your Soul as it ought, and you would have it to be, you must enquire into the Impediments thereof, in order to their speedy remo<g ref="char:EOLhyphen"/>val. Now amongst the fatal hindrances of Devotion, the Cares of the World are with too great Justice chiefly to be rec<g ref="char:EOLhyphen"/>kon'd: for they naturally fasten your Thoughts to the Earth, and set your Affections on things below; and are as so many depressing weights upon the Soul, which unluckily keep her from those Transports of Devo<g ref="char:EOLhyphen"/>tion, by which she would soar to Heaven. And therefore upon your coming to the Sacrament, you had need to allow your self some time wherein to withdraw from worldly Business, and to cast off earthly Thoughts, and
+<pb n="92" facs="tcp:44937:50"/> by holy Meditation to lift up your heart unto the <hi>Lord,</hi> and to give your self unto Prayer; which is indeed the principal in<g ref="char:EOLhyphen"/>stance of that Devotion now spoken of. And your Prayer must at this time be chiefly for <hi>Pardon of by-past sins, for strength against them for the future, and that God would grant you all those Graces which he now requires at your hands when you come to the Sacrament.</hi> Be sure then to be diligent in this Dutie: for should your other Endeavours be never so vigorous and constant, regular and uniform; yet without Pray<g ref="char:EOLhyphen"/>er for Gods blessing and assi<g ref="char:EOLhyphen"/>stance, you appear to trust to your own arm, and to rely up<g ref="char:EOLhyphen"/>on your own strength; not considering that all your suffici<g ref="char:EOLhyphen"/>encie is from God, that he gives you the <hi>Will</hi> and <hi>Power</hi> to do well: and therefore unto him direct your Prayer with humi<g ref="char:EOLhyphen"/>litie,
+<pb n="93" facs="tcp:44937:50"/> sinceritie, and zeal, to assist you with his Spirit, that you may come so prepared to the <hi>Holy Table,</hi> as that you may partake of the benefits there reacht out to every <hi>worthy Re<g ref="char:EOLhyphen"/>ceiver.</hi>
+               </p>
+            </div>
+            <div n="62" type="section">
+               <head>LXII.</head>
+               <p>Thus you see with what Gra<g ref="char:EOLhyphen"/>ces your Soul must be furnished when you come to the Com<g ref="char:EOLhyphen"/>munion: And if you find them to be but weak and feeble, and in a low degree, it must be your care to quicken and stir them up, begging the assistance of Gods Spirit to that end. And you may much quicken your <hi>Faith,</hi> by due meditation on the many gracious Promises God has been pleased to make to the <hi>truly Penitent.</hi> You may like<g ref="char:EOLhyphen"/>wise instance your love <hi>to God,</hi> by considering his manifold
+<pb n="94" facs="tcp:44937:51"/> Mercies, those especially whose remembrance you celebrate in the <hi>Sacrament,</hi> sum'd up in the death of his <hi>Son</hi> for your sake, even when you in the loins of your <hi>Forefathers</hi> were his Ene<g ref="char:EOLhyphen"/>mie. And this last considera<g ref="char:EOLhyphen"/>tion is both proper and powerful to move you to that Charitie we have above treated of. For coming to the Lords Supper, you are in a more especial man<g ref="char:EOLhyphen"/>ner to follow the Example of Christ; first, in a perfect for<g ref="char:EOLhyphen"/>giveness of all that have done you wrong; and next, in ma<g ref="char:EOLhyphen"/>nifesting your kindness to them in all Offices of Christian <hi>Love</hi> and <hi>Friendship.</hi> And when you thus labour to stir up and in<g ref="char:EOLhyphen"/>crease these Graces in your Soul, they become her Wedding-gar<g ref="char:EOLhyphen"/>ment, wherein she is fit to appear at this great Feast. But if this be wanting, she cannot expect to be otherwise entertain'd than
+<pb n="95" facs="tcp:44937:51"/> an <hi>Intruder.</hi> And what this is, you have it illustrated in the Parable of him who coming to the Marriage without a Wed<g ref="char:EOLhyphen"/>ding-garment, was cast out into a place of extream misery. And though this Judgment may not fall suddenly, (nor straight up<g ref="char:EOLhyphen"/>on your communicating) yet you know not how soon that he that will come may come; and who may abide the day of his coming? For who can dwell with everlasting burning? Who can <note place="margin">Ep. 33. 14.</note> endure an unquenchable fire?</p>
+            </div>
+            <div n="63" type="section">
+               <head>LXIII.</head>
+               <p>But if after all your care in the <hi>Duties</hi> already mentioned, you still doubt of your condi<g ref="char:EOLhyphen"/>tion, and suspect the insufficiency of your preparation for so holy a <hi>Performance;</hi> if you find, that notwithstanding your Resolu<g ref="char:EOLhyphen"/>tion and labour to the contrary,
+<pb n="96" facs="tcp:44937:52"/> you are ready to fall back into those sins which you have <hi>con<g ref="char:EOLhyphen"/>fessed</hi> and lamented, and abjur'd: then you must confess sorrow, and resolve afresh; resist and fight against both your sins and their occasions. And if they still return, you must still strive they get not the Victorie; which be sure they cannot, while you labour in good earnest to have them subdued and morti<g ref="char:EOLhyphen"/>fied. But if you still find the Law of your Members continu<g ref="char:EOLhyphen"/>ally to war, and often to prevail against the Law of your Mind, and the Affections to prove too strong for your Reason, and that this causeth you to be jea<g ref="char:EOLhyphen"/>lous you are not worthy to communicate; Then be pleased to consider,</p>
+            </div>
+            <div n="64" type="section">
+               <pb n="97" facs="tcp:44937:52"/>
+               <head>LXIV.</head>
+               <p>
+                  <hi>First,</hi> That the end of your coming to the Lords Table, is not to make protestation of your Righteousness and Perfe<g ref="char:EOLhyphen"/>ction, but to seek for both in Christ; that you now seek to be at peace with God, and to have your sins cleansed with the Bloud of that Spotless Holy Lamb, which takes away the sins of the World.</p>
+            </div>
+            <div n="65" type="section">
+               <head>LXV.</head>
+               <p>You are <hi>(secondly)</hi> to look upon the Sacrament as a Me<g ref="char:EOLhyphen"/>dicine and Cordial for sick and weak Souls; and that our Lord is pleased to invite none to his <hi>Supper,</hi> but those who are wea<g ref="char:EOLhyphen"/>rie and heavie laden with the burden of their sins. He calls you, not because of <hi>your Merits,</hi>
+                  <pb n="98" facs="tcp:44937:53"/> but of <hi>his Goodness;</hi> not that you are a <hi>worthy Guest,</hi> but that he is a <hi>gracious Entertainer.</hi> And though you are not prepared according to the Holiness of the Mysterie, yet God in Christ will accept of the good inten<g ref="char:EOLhyphen"/>tions of your heart: He will make this blessed Sacrament a means to quiet your Conscience, to increase your <hi>Faith,</hi> to enli<g ref="char:EOLhyphen"/>ven your Charitie, to amend your Life, and to assure you, that you are in the number of those, who at the last shall be called to the Table of the <hi>Lamb.</hi>
+               </p>
+            </div>
+            <div n="66" type="section">
+               <head>LXVI.</head>
+               <p>You are <hi>(thirdly)</hi> to consi<g ref="char:EOLhyphen"/>der, that when reconciled and converted unto God, you still remain a man; and that there is no Repentance so great, as that it entirely destroys all sin.
+<pb n="99" facs="tcp:44937:53"/> And therefore in the greatest assurance of your condition, have always in mind that advice of the Apostle, <hi>Let him that</hi>
+                  <note place="margin">1 Cor. 10. 12.</note>
+                  <hi>thinks he stands, take heed lest he fall.</hi> And when you find you are fallen, presently raise up your self again by faithful Re<g ref="char:EOLhyphen"/>pentance. The more you are advanced and confirm'd in Holi<g ref="char:EOLhyphen"/>ness; the more you will distrust your self, and be watchful a<g ref="char:EOLhyphen"/>gainst Temptations. After ho<g ref="char:EOLhyphen"/>ly resolutions and transports of Zeal and Devotion, it often hap<g ref="char:EOLhyphen"/>pens that men commit great sins; because the Conscience is apt to be less warie, as thinking it self secure: like the <hi>besieged,</hi> who after a brave Sally, grow negligent; and by contemning the Enemie they have repulsed, are surprized through their own carelessness. Conscience may, but Satan can never sleep, nor fail to take advantage of your securitie.</p>
+            </div>
+            <div n="67" type="section">
+               <pb n="100" facs="tcp:44937:54"/>
+               <head>LXVII.</head>
+               <p>Some sins are quickly felt; like a Scorpion, they leave a sting behind them, which ine<g ref="char:EOLhyphen"/>vitably would prove mortal, if not speedily cured by Repen<g ref="char:EOLhyphen"/>tance. And there are other sins which are not so soon felt, grow<g ref="char:EOLhyphen"/>ing upon us unperceived; but they leave a weight upon the Soul, which makes it move slowly to pietie and good works, lessening the sentiments of Reli<g ref="char:EOLhyphen"/>gion, and withdrawing the heart from God. You ought there<g ref="char:EOLhyphen"/>fore often to visit the state of your Conscience, and to call your self to an account, to the end you may find out, and cleanse that filthiness which sticks to it, through the corruption of the World, and your own: For the Conscience resembles Iron, that grows canker'd and rustie, if it
+<pb n="101" facs="tcp:44937:54"/> be not frequently dressed. The unclean Spirit will not dwell in a man, if the house be not swept, that is, emptie, and garnished; much less will the Spirit of Pu<g ref="char:EOLhyphen"/>ritie stay in the heart which is not <hi>neat</hi> from the ordure of ini<g ref="char:EOLhyphen"/>quitie, and furnished with Reli<g ref="char:EOLhyphen"/>gion. If you then are studious to purge your heart by Repen<g ref="char:EOLhyphen"/>tance, God will delight to dwell there, and take pleasure in the Lodging.</p>
+            </div>
+            <div n="68" type="section">
+               <head>LXVIII.</head>
+               <p>And your Repentance must return daily, because it will then take your sins in their fresh cir<g ref="char:EOLhyphen"/>cumstances, and so the better correspond to their aggravati<g ref="char:EOLhyphen"/>ons. It will also keep you from running too far in Arrears, which ever makes the payment both difficult and unpleasant. Above all, your daily repenting
+<pb n="102" facs="tcp:44937:55"/> will render this Dutie easie to be perform'd, when you come to the Lords Table.</p>
+            </div>
+            <div n="69" type="section">
+               <head>LXIX.</head>
+               <p>No man, saith our Church, ought to come to the Holy Communion, but with a full trust in Gods mercie, and with a quiet Conscience. And if you cannot quiet your Conscience with those excellent Rules there laid down by the Church, but that you require further counsel and comfort; then she adviseth you to repair to some discreet and learned Minister of Gods Holy Word, that you may re<g ref="char:EOLhyphen"/>ceive the benefit of Absolution, together with Ghostly counsel and advice, to the quieting of your Conscience, and avoiding of all scruple and doubtfulness.</p>
+            </div>
+            <div n="70" type="section">
+               <pb n="103" facs="tcp:44937:55"/>
+               <head>LXX.</head>
+               <p>And this advice you have good reason to embrace, not onely when you come to the Sacrament, but at all other times, when you have any ma<g ref="char:EOLhyphen"/>terial doubting concerning the state of your Soul: for through a neglect thereof, time may ei<g ref="char:EOLhyphen"/>ther cause your doubts to fester, or what is worse, you may be tempted to make use of deceit<g ref="char:EOLhyphen"/>ful Remedies, and give up your self to those idle and desperate courses, which may not onely stifle your present doubts, but harden you against all doubting for the future.</p>
+            </div>
+            <div n="71" type="section">
+               <head>LXXI.</head>
+               <p>In the resolution and satisfy<g ref="char:EOLhyphen"/>ing of your doubts, both upon your coming to the Sacrament,
+<pb n="104" facs="tcp:44937:56"/> and at all other times, I would advise you not to become your own Casuist, nor to relie upon your own Judgment: for your Soul, if truly humbled, will be apt to deal severely, and to pass a very hard sentence upon its condition: And if it be not truly humbled, it will be readie to handle your Scruple too soft<g ref="char:EOLhyphen"/>ly, and to give too favourable a construction of your state; and so instead of searching, <hi>skin</hi> over the Wound.</p>
+            </div>
+            <div n="72" type="section">
+               <head>LXXII.</head>
+               <p>Be your Scruples what they will, they ought to be satisfied before you come to the Supper of the Lord; or else you will plunge your self into more Scruples, by your negligence to have those satisfied which you have alreadie. Beware too you suffer not Scruples to keep you
+<pb n="105" facs="tcp:44937:56"/> from the Sacrament: for if a groundless Scruple occasion your absence <hi>from the Communion,</hi> then is your absence also groundless, and consequently sinful. But if your Scruple be material and weightie, you ought to be the more diligent to have it satisfied: for though it may indeed justly stay you from the Sacrament till it be satisfied, yet so long as you suf<g ref="char:EOLhyphen"/>fer it to keep you thence, you deprive your Soul of the bene<g ref="char:EOLhyphen"/>fits of that heavenly Ordinance. Delay not then to have your Scruples solidly satisfi'd by some discreet Minister: To whom you are to make your case plain; without disguise or reservation; that the Guide of Souls having a full discoverie of it, may be the better able to help you to a sa<g ref="char:EOLhyphen"/>tisfactorie Resolution.</p>
+            </div>
+            <div n="73" type="section">
+               <pb n="106" facs="tcp:44937:57"/>
+               <head>LXXIII.</head>
+               <p>And because <hi>boldness</hi> herein may prove as dangerous as <hi>di<g ref="char:EOLhyphen"/>strust,</hi> the <hi>Confident</hi> have need to advise with the holy <hi>Guide,</hi> as well as the <hi>Doubting;</hi> and both had best to relie upon more equal and impartial Judgments than their own. For men are generally inclin'd to side with a too good opinion of them<g ref="char:EOLhyphen"/>selves; which makes it dange<g ref="char:EOLhyphen"/>rous to trust our own Verdict in the great concernment of our Soul, and even necessarie more than once to consult with a <hi>Spi<g ref="char:EOLhyphen"/>ritual Guide;</hi> to the end we may receive from him such di<g ref="char:EOLhyphen"/>rections as may, through God, keep us from splitting upon ei<g ref="char:EOLhyphen"/>ther of those opposite Rocks, <hi>too great Confidence,</hi> or <hi>too great Distrust.</hi>
+               </p>
+            </div>
+            <div n="74" type="section">
+               <pb n="107" facs="tcp:44937:57"/>
+               <head>LXXIV.</head>
+               <p>Nor can I imagine ought should render you backward to make known your <hi>Doubts,</hi> un<g ref="char:EOLhyphen"/>less it be an improvident surmise that the ripping up of them will discover your Nakedness, and expose you to shame with o<g ref="char:EOLhyphen"/>thers, and beget a discounte<g ref="char:EOLhyphen"/>nance in your self. But there will be no ground left for this surmise, when it is duly consi<g ref="char:EOLhyphen"/>der'd, that the Person to whom you are thus to reveal your self, is a pious and discreet Minister of Gods Word; one who will be as faithful to conceal, as you are to discover your infirmities; and as readie to heal your sores, as you are to rip them up: one too, who will be so far from insulting over your Weaknesses, or thinking ill of you for disco<g ref="char:EOLhyphen"/>vering them, that he will love
+<pb n="108" facs="tcp:44937:58"/> and encourage your ingenuous and Christian dealing, and re<g ref="char:EOLhyphen"/>store you in the Spirit of meek<g ref="char:EOLhyphen"/>ness, and help to set things at rights between God and your Soul. But suppose the discove<g ref="char:EOLhyphen"/>rie of your Scruples should in<g ref="char:EOLhyphen"/>deed turn to your <hi>shame,</hi> which is the worst you can fear; yet to abstain from doing it upon this account, is to betray in you a less care of your <hi>Soul</hi> than of your <hi>Body.</hi> For the foulest and most shameful <hi>Diseases</hi> of the Bodie, you can, without blush<g ref="char:EOLunhyphen"/>ing, lay open to your Physi<g ref="char:EOLhyphen"/>cian; and will you then be coy and squeamish to confess the sickness of your Soul! of which your care ought to be infinite<g ref="char:EOLhyphen"/>ly greater than of your Bodie, as no less excelling it, than the heavenly Manna did the Ear<g ref="char:EOLhyphen"/>then pot that contain'd it. So that neither fear of shame, nor any thing else, ought to keep
+<pb n="109" facs="tcp:44937:58"/> you from using such means as any way tend to its Salva<g ref="char:EOLhyphen"/>tion.</p>
+            </div>
+            <div n="75" type="section">
+               <head>LXXV.</head>
+               <p>And thus having, with what brevitie and plainness I was a<g ref="char:EOLhyphen"/>ble, run through the several Duties to be perform'd at your coming to the Communion, and brought you as it were to the Rails of the Holy Table; before I leave you, I will take the free<g ref="char:EOLhyphen"/>dom to mind you how you are there to carrie your self. Where two things are now required of you; namely, a <hi>Devout frame of Mind,</hi> and a decent gesture of Bodie.</p>
+            </div>
+            <div n="76" type="section">
+               <head>LXXVI.</head>
+               <p>As to that Devout frame of Mind required of you at the time of <hi>receiving,</hi> it chiefly con<g ref="char:EOLhyphen"/>sists
+<pb n="110" facs="tcp:44937:59"/> in thoughts of your own unworthiness of being a Guest at so Divine a Banquet. And in order to raise in, and to hum<g ref="char:EOLhyphen"/>ble you under a due sense of this Unworthiness, call to mind the sins you have committed since you were last at the Sacra<g ref="char:EOLhyphen"/>ment; because you are now come again to repeat and renew that Covenant which thereby you have broken.</p>
+            </div>
+            <div n="77" type="section">
+               <head>LXXVII.</head>
+               <p>Be attentive to the actions of the Minister; and when you see him breaking the Bread, and pouring out the Wine, meditate, <hi>How Christs Body was broken, and his Bloud shed upon the Cross.</hi> And above all, think with your self, that it was your Sins that drove the Nails into his Hands and Feet, and pierced his blessed Side with the Spear: That it
+<pb n="111" facs="tcp:44937:59"/> was your sins, with the sins of others, occasioned all his Suffer<g ref="char:EOLhyphen"/>ings, the pains of his Bodie and Soul; and that if he had not suffered once upon the Cross, you had been tormented to <hi>e<g ref="char:EOLhyphen"/>verlasting Ages.</hi> And upon these sober Thoughts, you will even abhor your self, and with indignation behold your cruel dealing with your Gracious Lord. Consider too, how no<g ref="char:EOLhyphen"/>thing but the Blood of Christ can cleanse your sins; and that it doth not, like <hi>Abel</hi>'s speak for Vengeance, but loudly calls for Mercie upon them who spilt it, if they repent and reform; and still draws down Blessing upon all who worthily receive it in the Sacrament. Consider too, how Christ by those Sufferings, which are represented and com<g ref="char:EOLhyphen"/>memorated in the Sacrament, has made an Atonement for your sins, appeased the Wrath,
+<pb n="112" facs="tcp:44937:60"/> and satisfi'd the Justice of God, which you have provoked and incensed against your Soul. And this will raise up your hopes, and make you come with an humble and religious bold<g ref="char:EOLhyphen"/>ness to the Communion; being assured, God will not onely there seal unto you, but put you in possession of the benefits of Christs Sufferings; namely, Reconciliation with God, and Pardon of your sins.</p>
+            </div>
+            <div n="78" type="section">
+               <head>LXXVIII.</head>
+               <p>Let your Tongue and Heart joyn with the Minister in that excellent Prayer wherewith he delivers the <hi>Bread</hi> and <hi>Wine: The Body of our Lord Jesus Christ, which was given,</hi> &amp;c. <hi>The Bloud of our Lord Jesus Christ, which was shed,</hi> &amp;c. Lift up your Heart unto the Lord. Let your Thoughts be wholly set
+<pb n="113" facs="tcp:44937:60"/> upon Christs death and its bene<g ref="char:EOLhyphen"/>fits: for the remembrance of Christs death, as it was one main end of the <hi>Institution,</hi> so is it of your receiving of the Sa<g ref="char:EOLhyphen"/>crament. And look not upon the Bread and Wine, being <hi>conse<g ref="char:EOLhyphen"/>crate</hi> and <hi>blessed,</hi> as ordinarie things, but as they are after a spiritual manner the <hi>Body</hi> and <hi>Bloud</hi> of Christ.</p>
+            </div>
+            <div n="79" type="section">
+               <head>LXXIX.</head>
+               <p>And as these and the like con<g ref="char:EOLhyphen"/>siderations may serve to render your <hi>Soul devout,</hi> so will they also make your <hi>Body humble:</hi> For though Humilitie properly belongs to the Heart; yet it can<g ref="char:EOLhyphen"/>not be outwardly expressed, but by gestures of the <hi>Body.</hi> And you are to <hi>manifest</hi> your Reve<g ref="char:EOLhyphen"/>rence at the <hi>Lords Supper,</hi> by using such gestures as the cu<g ref="char:EOLhyphen"/>stom of the place where you re<g ref="char:EOLhyphen"/>ceive
+<pb n="114" facs="tcp:44937:61"/> it account most <hi>decent, humble,</hi> and <hi>reverend.</hi> Kneeling is the posture appointed by our National Church, as fittest to signifie your humble and grate<g ref="char:EOLhyphen"/>ful acknowledgment of the be<g ref="char:EOLhyphen"/>nefits of Christ therein sealed to every worthie Receiver; and for the avoiding of such profa<g ref="char:EOLhyphen"/>nation and disorder in the Holy Communion, as might otherwise ensue.</p>
+            </div>
+            <div n="80" type="section">
+               <head>LXXX.</head>
+               <p>If you look to the first <hi>Insti<g ref="char:EOLhyphen"/>tution</hi> of the Sacrament, you will finde Christ employing therein such a singular care, that nothing low or mean appears a<g ref="char:EOLhyphen"/>bout it. And in all times, where <hi>Schism</hi> and <hi>Faction</hi> were exclu<g ref="char:EOLhyphen"/>ded, nothing but solemnitie and expressions of greatest reverence appear'd at the receiving it. But to proceed:</p>
+            </div>
+            <div n="81" type="section">
+               <pb n="115" facs="tcp:44937:61"/>
+               <head>LXXXI.</head>
+               <p>Besides Humilitie and Reve<g ref="char:EOLhyphen"/>rence, there is required of them who come to the Lords Supper, <hi>a thankful remembrance of Christs death.</hi> And this you cannot want, when you reflect upon what he suffer'd for you, both in credit and bodie, when he un<g ref="char:EOLhyphen"/>derwent the most painful and ignominious sort of dying; and in those sharp and fearful ago<g ref="char:EOLhyphen"/>nies of his Soul, which forced him to crie out, <hi>His God had forsaken him.</hi> And seeing all this was to save <hi>you</hi> from peri<g ref="char:EOLhyphen"/>shing, this must needs awaken you to an holy ambition of ma<g ref="char:EOLhyphen"/>king your Thankfulness, if pos<g ref="char:EOLhyphen"/>sible, as unspeakable as his Suf<g ref="char:EOLhyphen"/>ferings. And how can you but praise and magnifie his Good<g ref="char:EOLhyphen"/>ness, who hath redeem'd you at so dear a rate! especially when
+<pb n="116" facs="tcp:44937:62"/> you come to the Sacrament to make solemn Commemoration of Gods mercies, in sending his Son to die for you, and appoin<g ref="char:EOLhyphen"/>ting the Sacrament to be a <hi>con<g ref="char:EOLhyphen"/>tinual Pledge</hi> of your Thankful<g ref="char:EOLhyphen"/>ness for the same. With <hi>Angels</hi> therefore, and Arch-angels, and all the Companie of Heaven, laud and magnifie his glorious Name, praising him, and say<g ref="char:EOLhyphen"/>ing, Holy, holy, holy Lord God of Hosts, Heaven and Earth are full of thy Glorie: Glorie be to thee, O Lord most high. Thanks<g ref="char:EOLhyphen"/>giving or praising of God, was the devout practice of the first Christans at the receiving of the Lords Supper, <hi>Acts</hi> 2. 46, 47. And in after-Ages Thanksgiving was thought so necessarie at its celebration, that the Sacrament it self thence got the name of <hi>Eucharist:</hi> A word, though it be not found in Scripture in this sence, yet <hi>Casaubon</hi> doubts not
+<pb n="117" facs="tcp:44937:62"/> but it was derived from the time of the Apostles. <hi>Exercit.</hi> 16. <hi>ad Annal. Baron. cap.</hi> 33.</p>
+            </div>
+            <div n="82" type="section">
+               <head>LXXXII.</head>
+               <p>No man can express greater love to his dearest Friends, than to adventure to die for them. And yet Christs love was of a higher degree: for he died for you when you were his Enemie; and that death too which was all full of reproach and pain, <hi>John</hi> 15. 13. And this love of Christ obligeth you to love him again; and if not, you come short of the Publicans (whom the Jews esteem'd the worst sort of men) for even they love those that love them, St. <hi>Mat.</hi> 5. 46. And if your love to Christ be without dissimulation, it will admit of no Rival, nor hold any intelli<g ref="char:EOLhyphen"/>gence with his Enemies; but you will be glad of the happie
+<pb n="118" facs="tcp:44937:63"/> occasion (you now have at the Sacrament) of sacrificing all vile affections, and mortifying every lust; as the best Testi<g ref="char:EOLhyphen"/>monie of your own love, and requital of his, who delivered himself unto death, to redeem you from all iniquitie and vici<g ref="char:EOLhyphen"/>ous living, and to oblige you to advance toward the highest pitch of all Vertue. And when your love to Christ is in some due measure proportionable to his love to you, it will make you (with St. <hi>Paul)</hi> readie not to be bound onely, but also to die for his Name, when his Command shall bring you to such an expression of your Obe<g ref="char:EOLhyphen"/>dience.</p>
+            </div>
+            <div n="83" type="section">
+               <head>LXXXIII.</head>
+               <p>And the few things now mentioned, may, through God, help you to such a pious govern<g ref="char:EOLhyphen"/>ment
+<pb n="119" facs="tcp:44937:63"/> of your self at the time of <hi>receiving</hi> the Sacrament, as may make it turn to your great and endless comfort. What now re<g ref="char:EOLhyphen"/>mains to finish these abrupt, but well-intended Meditations, re<g ref="char:EOLhyphen"/>spects your deportment after you have been at the Commu<g ref="char:EOLhyphen"/>nion.</p>
+            </div>
+            <div n="84" type="section">
+               <head>LXXXIV.</head>
+               <p>And <hi>first,</hi> being that at the Sa<g ref="char:EOLhyphen"/>crament your Covenant is re<g ref="char:EOLhyphen"/>newed, give all diligence not to break it for the future; because this will make all you have done, to little purpose: For he (saith <hi>Ben Sirach)</hi> that wash<g ref="char:EOLhyphen"/>eth himself after the touching of a dead bodie, if he touch it a<g ref="char:EOLhyphen"/>gain, what availeth his washing? So it is with a man that fasteth for his sins, and goeth again and doth the same: who will hear his Prayer? or what doth his hum<g ref="char:EOLhyphen"/>bling
+<pb n="120" facs="tcp:44937:64"/> profit him, <hi>Ecclesiasticus</hi> 34. 25, 26. An impious falling back into your former vices, is signified by a <hi>Dog</hi> and <hi>Swine,</hi> two Creatures held to be so pro<g ref="char:EOLhyphen"/>fane and unclean, that the Jews were neither to offer them in Sacrifice, nor to eat them; and both are proverbially observed for this qualitie: That the Dog licks up what he has vomited; and the Swine, though never so clean wash'd, takes pleasure to tumble again in the next Mire it comes to.</p>
+            </div>
+            <div n="85" type="section">
+               <head>LXXXV.</head>
+               <p>Those who after their con<g ref="char:EOLhyphen"/>version to the <hi>Christian Faith,</hi> did again return to the sins of their former unconverted life, they made their Christian Hea<g ref="char:EOLhyphen"/>thenism worse than their bare Heathenism was at first. So that it had been more for the
+<pb n="121" facs="tcp:44937:64"/> advantage of such, never to have been taught the Doctrine of Christ and Christian practice, than when they had been taught and undertaken to obey it, to fall back again into their hea<g ref="char:EOLhyphen"/>then and vicious courses, 2 <hi>Pet.</hi> 2. 20, 21. And you know what happened to the man in St. <hi>Mat.</hi> 12. 43. who (after the evil Guests were cast out of his Soul) kept it emptie of those that were good: Which is easi<g ref="char:EOLhyphen"/>ly applicable to all those who wilfully and knowingly run a<g ref="char:EOLhyphen"/>gain to those evil ways which at their coming to the Sacrament they pretend to repent of and abandon.</p>
+            </div>
+            <div n="86" type="section">
+               <head>LXXXVI.</head>
+               <p>
+                  <hi>Secondly,</hi> Keep continually in your mind all those <hi>Resolutions</hi> that you now put on, to the end you may have them always readie to oppose against the
+<pb n="122" facs="tcp:44937:65"/> things that would tempt you to break them, and to relapse into the evils you have taken leave of. And it will be seasonable, that you here think with your self, with what face you can commit that sin which you but now have solemnly vowed against. Think too, what an affront you offer unto God, in breaking that League of Friendship you en<g ref="char:EOLhyphen"/>ter'd into with him at the Sacra<g ref="char:EOLhyphen"/>ment. Think likewise, that if to keep Gods favour be your onely happiness and safetie, then to lose it will prove your extrea<g ref="char:EOLhyphen"/>mest danger and miserie. And then finish your other Thoughts herein with this: <hi>That every sin you wilfully commit, after your be<g ref="char:EOLhyphen"/>ing at the Sacrament, breaks that Covenant you there renewed; and may justly make God, of your best Friend, become your sorest Enemy. And if God be once against you, no matter who is on your side.</hi>
+               </p>
+            </div>
+            <div n="87" type="section">
+               <pb n="123" facs="tcp:44937:65"/>
+               <head>LXXXVII.</head>
+               <p>
+                  <hi>Thirdly,</hi> Consider how that to fall back willingly into your old iniquities, as it sets God against you, so it likewise makes your own Conscience flie in your face; and to upbraid, arraign, accuse, condemn, and punish you for breaking Covenant with him. And it doth not onely fill you with present pain and agonie, but also with a fear<g ref="char:EOLhyphen"/>ful expectation of <hi>Wrath to come.</hi> For what can you expect but extream miserie, when you break League with him who is a <hi>consuming fire,</hi> and who will ren<g ref="char:EOLhyphen"/>der indignation, wrath, tribula<g ref="char:EOLhyphen"/>tion and anguish to every Soul that thus doth evil? <hi>Rom.</hi> 2. 9. These are the Considerations whereby you may confront all enticements to break the <hi>Cove<g ref="char:EOLhyphen"/>nant</hi> you have <hi>renewed.</hi> And
+<pb n="124" facs="tcp:44937:66"/> when you maturely look into the nature and designe of Tem<g ref="char:EOLhyphen"/>ptations, you will find the most <hi>taking</hi> to be but as so many cheats, which under the Visor of some <hi>delight</hi> or <hi>profit,</hi> would rob you of your Integritie, and betray you to Enmitie both with God and your self. And therefore when you entertain a<g ref="char:EOLhyphen"/>ny Temptation to sin, you do as wisely as he who takes those into his house, whom he knows are come on purpose to spoil him of what he esteems most precious.</p>
+            </div>
+            <div n="88" type="section">
+               <head>LXXXVIII.</head>
+               <p>Some have drunk in such a preposterous opinion of Gods long-suffering, that instead of being led thereby unto Repen<g ref="char:EOLhyphen"/>tance, as God would have them, they are carried on unto a hor<g ref="char:EOLhyphen"/>rid presumptuous offending.
+<pb n="125" facs="tcp:44937:66"/> But no Wickedness can be grea<g ref="char:EOLhyphen"/>ter, nor Ingratitude more pro<g ref="char:EOLhyphen"/>voking, than to sin against God, because he is long-suffering: And yet this is such common Logick, and of so great antiqui<g ref="char:EOLhyphen"/>tie, that <hi>Solomon</hi> observ'd it, <hi>Ec<g ref="char:EOLhyphen"/>clesiasticus</hi> 8. 11. But to sin upon hopes, or rather presum<g ref="char:EOLhyphen"/>ption of finding Mercie, and to break your Covenant with God afresh, because you have done so, and yet he has spared you, is so absurd, vile, and disingenious a way of arguing, that it carries with it its own confutation. Why should you not rather conclude, that God will forbear your breach of Covenant no longer, because he has forborn it so long alreadie?</p>
+            </div>
+            <div n="89" type="section">
+               <head>LXXXIX.</head>
+               <p>
+                  <hi>Fourthly,</hi> The last part of your Baptismal Vow, binds you
+<pb n="126" facs="tcp:44937:67"/> to keep Gods holy Will and Commandments, and walk in the same all the days of your life. And as to the breach here<g ref="char:EOLhyphen"/>of, it matters not whether it be at the Morning, Noon, or Even<g ref="char:EOLhyphen"/>ing of your life; sooner or la<g ref="char:EOLhyphen"/>ter makes no difference in the neglect of that, which you are bound to do continually. It may indeed adde to your re<g ref="char:EOLhyphen"/>proach, to break that Vow at last, which you have kept so long: for this speaks it your want of Will, and not of Power; and that it was not your Weak<g ref="char:EOLhyphen"/>ness, but something else, that moved you to leave the Road, wherein you had walked so long a time with ease and safetie.</p>
+            </div>
+            <div n="90" type="section">
+               <head>XC.</head>
+               <p>Use makes hard things easie: the chief, if not onely difficultie in Holiness, is want of practice,
+<pb n="127" facs="tcp:44937:67"/> and a being accustom'd to the contrarie. The ways of Gods Commandments neither waste the Spirits, nor gall the Feet of those who use constantly to walk in them. Let the like serious and holy Thoughts possess your Soul for the future, that you have the day of receiving; and continue to co-operate with that Grace God gives you at the Sa<g ref="char:EOLhyphen"/>crament, and I see not why your whole life may not be all of the same piece, and your Conversa<g ref="char:EOLhyphen"/>tion continue as vertuous and well-govern'd after, as it was at the time you came to the Holy Communion: from which I will no longer stay you, than with this <hi>hearty Wish,</hi> That when you come thither to renew your Co<g ref="char:EOLhyphen"/>venant in Vows and Purposes of better Obedience, God <hi>may</hi> vouchsafe to assist you with his Grace, and <hi>to strengthen you with his Power, that you may pay</hi>
+                  <pb n="128" facs="tcp:44937:68"/>
+                  <hi>the Vows you then make unto him; and that by virtue of the heavenly Nourishment you there receive, you may grow up in Grace and Holiness, till at last you come to be a perfect man in Christ.</hi>
+               </p>
+               <closer>Amen.</closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Books written by this Reverend Author.</head>
+            <list type="list_of_books">
+               <item>1. WEst Barbary. <hi>Oct.</hi>
+               </item>
+               <item>2. The Present State of the Jews: <hi>wherein is contained an exact Account of their Customs Secu<g ref="char:EOLhyphen"/>lar and Religious.</hi>
+               </item>
+               <item>3. The Primitive Institution: <hi>or, a seasonable Discourse of Catechizing.</hi>
+               </item>
+               <item>4. A Modest Plea for the Clergy.</item>
+               <item>5. The Life and Death of <hi>Mahumet, the Author of the Turkish Religion.</hi>
+               </item>
+               <item>6. The Moors baffled: <hi>or, a Dis<g ref="char:EOLhyphen"/>course of</hi> Tangier.</item>
+            </list>
+            <p>All printed for <hi>W. C.</hi> except the first.</p>
+            <pb facs="tcp:44937:68"/>
+         </div>
+      </back>
+   </text>
+</TEI>
